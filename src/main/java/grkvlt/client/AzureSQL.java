@@ -79,11 +79,25 @@ public class AzureSQL {
      */
     public void makeGuess(Integer trackId, Integer christianRock) {
         try {
-            PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, ChristianRock = ChristianRock + ? WHERE TrackId = ?");
-            update.setInt(1, christianRock);
-            update.setInt(2, trackId);
-            update.executeUpdate();
-            update.close();
+            PreparedStatement select = connection.prepareStatement("SELECT COUNT(TrackId) AS Rows FROM ChristianRockOrNot WHERE TrackId = ?");
+            select.setInt(1, trackId);
+            ResultSet results = select.executeQuery();
+            int rows = results.getInt("Rows");
+            results.close();
+            select.close();
+            if (rows == 0) {
+                PreparedStatement insert = connection.prepareStatement("INSERT INTO ChristianRockOrNot (TrackId, Total, ChristianRock) VALUES (?, 1, ?)");
+                insert.setInt(1, trackId);
+                insert.setInt(2, christianRock);
+                insert.executeUpdate();
+                insert.close();
+            } else {
+                PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, ChristianRock = ChristianRock + ? WHERE TrackId = ?");
+                update.setInt(1, christianRock);
+                update.setInt(2, trackId);
+                update.executeUpdate();
+                update.close();
+            }
         } catch (SQLException sqle) {
             throw new RuntimeException(sqle);
         }
