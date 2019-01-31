@@ -15,7 +15,7 @@
  */
 package grkvlt;
 
-import grkvlt.client.DynamoDB;
+import grkvlt.client.AzureSQL;
 import grkvlt.client.MusixMatch;
 import grkvlt.data.Guesses;
 import grkvlt.data.RockLyrics;
@@ -31,11 +31,11 @@ import javax.ws.rs.QueryParam;
 public class Resources {
 
     private MusixMatch musixMatch;
-    private DynamoDB dynamoDB;
+    private AzureSQL azureSQL;
 
     public Resources() {
         musixMatch = new MusixMatch();
-        dynamoDB = new DynamoDB();
+        azureSQL = new AzureSQL();
     }
 
     @Path("lyrics")
@@ -49,7 +49,7 @@ public class Resources {
     @Produces("application/json")
     @POST
     public Guesses guess(@PathParam("trackId") Integer trackId, @QueryParam("christianRock") Integer christianRock) {
-        dynamoDB.makeGuess(trackId, christianRock);
-        return dynamoDB.getGuesses(trackId);
+        azureSQL.makeGuess(trackId, christianRock);
+        return azureSQL.getGuesses(trackId);
     }
 }

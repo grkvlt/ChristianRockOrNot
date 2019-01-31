@@ -94,7 +94,7 @@ public class MusixMatch {
                     lyrics = lyrics.replaceAll("\\(.*[0-9]*.*\\)", "");
                 }
             } catch (MusixMatchException mme) {
-                Throwables.propagateIfPossible(mme, RuntimeException.class);
+                throw new RuntimeException(mme);
             }
         } while (!lyrics.contains("baby"));
 
@@ -126,7 +126,6 @@ public class MusixMatch {
         } catch (JsonParseException jpe) {
             throw new MusixMatchException(response, jpe);
         }
-
     }
 
     private List<Track> searchTracks(int genre, String lyricsQuery) throws MusixMatchException {
