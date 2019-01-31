@@ -1,0 +1,3718 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.15059995651245,
+            "available": 10000
+        },
+        "body": {
+            "track_list": [
+                {
+                    "track": {
+                        "track_id": 46956740,
+                        "track_name": "Baby I'm Drunk",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 20582474,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16424182,
+                        "album_name": "20th Century Masters: The Best of The Reverend Horton Heat",
+                        "artist_id": 24461779,
+                        "artist_name": "The Reverend Horton Heat",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Reverend-Horton-Heat/Baby-I-m-Drunk?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Reverend-Horton-Heat/Baby-I-m-Drunk/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-04-08T00:12:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 132654137,
+                        "track_name": "Baby, Let's Play House - Live from Eagles' Hall, Houston, Texas",
+                        "track_name_translation_list": [],
+                        "track_rating": 51,
+                        "commontrack_id": 74109054,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 26567299,
+                        "album_name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+                        "artist_id": 702,
+                        "artist_name": "Elvis Presley",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Baby-Let-s-Play-House-Live-from-Eagles-Hall-Houston-Texas?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Elvis-Presley/Baby-Let-s-Play-House-Live-from-Eagles-Hall-Houston-Texas/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-07-28T15:00:08Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 8809056,
+                        "track_name": "Let Me Be Your Fantasy",
+                        "track_name_translation_list": [],
+                        "track_rating": 5,
+                        "commontrack_id": 8469962,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 10984773,
+                        "album_name": "Up",
+                        "artist_id": 242126,
+                        "artist_name": "Leroux",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Leroux/Let-Me-Be-Your-Fantasy?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Leroux/Let-Me-Be-Your-Fantasy/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-10-23T17:57:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2397186,
+                        "track_name": "Slow Down Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1129271,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10414832,
+                        "album_name": "No Name For The Baby",
+                        "artist_id": 8688,
+                        "artist_name": "The Bates",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Bates/Slow-Down-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Bates/Slow-Down-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T17:51:02Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 13208160,
+                        "track_name": "Hell's Party",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 9227007,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13208300,
+                        "album_name": "Hellburst",
+                        "artist_id": 284092,
+                        "artist_name": "MQN",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/MQN/Hell-s-Party?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/MQN/Hell-s-Party/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-13T00:02:08Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3622019,
+                        "track_name": "Rubber Lucy",
+                        "track_name_translation_list": [],
+                        "track_rating": 32,
+                        "commontrack_id": 975788,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10516528,
+                        "album_name": "Hollies",
+                        "artist_id": 7572,
+                        "artist_name": "The Hollies",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Hollies/Rubber-Lucy?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Hollies/Rubber-Lucy/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-01T15:11:47Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 50449822,
+                        "track_name": "Oh My Soul",
+                        "track_name_translation_list": [],
+                        "track_rating": 38,
+                        "commontrack_id": 1566524,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16788657,
+                        "album_name": "The Lost Tapes, Vol.1",
+                        "artist_id": 34447902,
+                        "artist_name": "Big Brother & The Holding Company",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Big-Brother-feat-The-Holding-Company/Oh-My-Soul?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Big-Brother-feat-The-Holding-Company/Oh-My-Soul/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-10-12T02:37:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 63867720,
+                        "track_name": "Happy Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 37,
+                        "commontrack_id": 6500738,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18344850,
+                        "album_name": "Rock Around the Clock (Mono Version)",
+                        "artist_id": 497214,
+                        "artist_name": "Bill Haley",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Bill-Haley/Happy-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Bill-Haley/Happy-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-06-12T07:20:10Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2119811,
+                        "track_name": "Baby I Miss You",
+                        "track_name_translation_list": [],
+                        "track_rating": 2,
+                        "commontrack_id": 1129124,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 1,
+                        "num_favourite": 2,
+                        "album_id": 10392256,
+                        "album_name": "Intravenus",
+                        "artist_id": 8688,
+                        "artist_name": "The Bates",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Bates/Baby-I-Miss-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Bates/Baby-I-Miss-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-31T19:37:54Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1150865,
+                        "track_name": "Baby, Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2171101,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10314572,
+                        "album_name": "Rockstar Potential",
+                        "artist_id": 25428,
+                        "artist_name": "Tuuli",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Tuuli/Baby-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Tuuli/Baby-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T10:20:21Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 20,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Alternative",
+                                        "music_genre_name_extended": "Alternative",
+                                        "music_genre_vanity": "Alternative"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 9679338,
+                        "track_name": "My Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 238189,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11050877,
+                        "album_name": "The Open Road",
+                        "artist_id": 748,
+                        "artist_name": "John Hiatt",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/John-Hiatt/My-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/John-Hiatt/My-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-03-26T19:12:47Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 10162144,
+                        "track_name": "Twist and Shake",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 134053,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 11079684,
+                        "album_name": "The Lost Tapes, Volume 1",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Twist-And-Shake?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Twist-And-Shake/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-01T22:47:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 32717129,
+                        "track_name": "As She Whispers",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1187064,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15398835,
+                        "album_name": "Swept",
+                        "artist_id": 9199,
+                        "artist_name": "Julia Fordham",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Julia-Fordham/As-She-Whispers?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Julia-Fordham/As-She-Whispers/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T17:57:48Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 14,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Pop",
+                                        "music_genre_name_extended": "Pop",
+                                        "music_genre_vanity": "Pop"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 64191513,
+                        "track_name": "It Must Be You",
+                        "track_name_translation_list": [],
+                        "track_rating": 4,
+                        "commontrack_id": 133708,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 13756754,
+                        "album_name": "Hymns to the Silence",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/It-Must-Be-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/It-Must-Be-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-09T05:20:48Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 9589121,
+                        "track_name": "Whistle, Whistle",
+                        "track_name_translation_list": [],
+                        "track_rating": 8,
+                        "commontrack_id": 6604981,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11042558,
+                        "album_name": "Free to Fall",
+                        "artist_id": 518575,
+                        "artist_name": "Beaucoup Blue",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Beaucoup-Blue/Whistle-Whistle?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Beaucoup-Blue/Whistle-Whistle/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-04-04T19:44:49Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 48254271,
+                        "track_name": "Nothing to Lose",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 21778383,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16559137,
+                        "album_name": "The Curse Of",
+                        "artist_id": 86897,
+                        "artist_name": "Astronaut",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Astronaut/Nothing-to-Lose?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Astronaut/Nothing-to-Lose/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-06-27T00:21:42Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 46588610,
+                        "track_name": "Boom Boom",
+                        "track_name_translation_list": [],
+                        "track_rating": 9,
+                        "commontrack_id": 26142398,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 16383067,
+                        "album_name": "The Eric Burdon Story",
+                        "artist_id": 2260,
+                        "artist_name": "Eric Burdon",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Eric-Burdon/Boom-Boom?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Eric-Burdon/Boom-Boom/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-13T03:18:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 99557873,
+                        "track_name": "Rock It",
+                        "track_name_translation_list": [],
+                        "track_rating": 2,
+                        "commontrack_id": 788233,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 22017953,
+                        "album_name": "Steve Miller Band",
+                        "artist_id": 6684,
+                        "artist_name": "The Steve Miller Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Rock-It?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Rock-It/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T17:05:18Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 91538220,
+                        "track_name": "Cry, Cry, Cry",
+                        "track_name_translation_list": [],
+                        "track_rating": 34,
+                        "commontrack_id": 788125,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 4,
+                        "album_id": 21359703,
+                        "album_name": "Wide River",
+                        "artist_id": 6684,
+                        "artist_name": "The Steve Miller Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Cry-Cry-Cry?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Cry-Cry-Cry/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-12T17:45:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4013807,
+                        "track_name": "My Favorite Enemy",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 212761,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 10550061,
+                        "album_name": "Ark",
+                        "artist_id": 647,
+                        "artist_name": "The Animals",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Animals/My-Favorite-Enemy?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Animals/My-Favorite-Enemy/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-01-24T11:38:08Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2431700,
+                        "track_name": "Depends On Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 635219,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10417569,
+                        "album_name": "Two Penny Opera",
+                        "artist_id": 4302,
+                        "artist_name": "The Tiger Lillies",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Tiger-Lillies/Depends-on-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Tiger-Lillies/Depends-on-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-12-24T17:41:01Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 30997393,
+                        "track_name": "Where Did Our Love Go",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1870132,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13834407,
+                        "album_name": "Bad Boy",
+                        "artist_id": 18231,
+                        "artist_name": "Ringo Starr",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ringo-Starr/Where-Did-Our-Love-Go?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ringo-Starr/Where-Did-Our-Love-Go/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-01T02:16:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 14,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Pop",
+                                        "music_genre_name_extended": "Pop",
+                                        "music_genre_vanity": "Pop"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 53604348,
+                        "track_name": "Wild World",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 25816207,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17116662,
+                        "album_name": "A Romantic Night with Soft Music & Power Ballads. Best Relaxing, Sensual, Erotic & Sex Music of All Time",
+                        "artist_id": 26461243,
+                        "artist_name": "True Songs Makers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/True-Songs-Makers/Wild-World?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/True-Songs-Makers/Wild-World/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-06-12T23:02:41Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 67905718,
+                        "track_name": "Baby Blue",
+                        "track_name_translation_list": [],
+                        "track_rating": 26,
+                        "commontrack_id": 2195768,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 18937552,
+                        "album_name": "No Way Out",
+                        "artist_id": 26097,
+                        "artist_name": "The Chocolate Watch Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Chocolate-Watch-Band/Baby-Blue?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Chocolate-Watch-Band/Baby-Blue/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-10-22T11:36:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 82707025,
+                        "track_name": "C'mon Marianne",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1851505,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20752176,
+                        "album_name": "Around Grapefruit",
+                        "artist_id": 17885,
+                        "artist_name": "Grapefruit",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Grapefruit/C-Mon-Marianne?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Grapefruit/C-Mon-Marianne/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T19:14:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 33594631,
+                        "track_name": "Goin' Back to Birmingham",
+                        "track_name_translation_list": [],
+                        "track_rating": 2,
+                        "commontrack_id": 1046321,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 15462765,
+                        "album_name": "Essential Ten Years After Collection",
+                        "artist_id": 8057,
+                        "artist_name": "Ten Years After",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ten-Years-After/Goin-Back-to-Birmingham?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ten-Years-After/Goin-Back-to-Birmingham/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-09T06:44:54Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 48371219,
+                        "track_name": "Flirting",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 3346189,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16570300,
+                        "album_name": "The Return to Form Black Magick Party",
+                        "artist_id": 69102,
+                        "artist_name": "Pop Levi",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Pop-Levi/Flirting?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Pop-Levi/Flirting/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T12:32:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 36644055,
+                        "track_name": "Ghost Coming",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 9418538,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15686485,
+                        "album_name": "Abbabubba",
+                        "artist_id": 134425,
+                        "artist_name": "Black Francis",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Black-Francis/Ghost-Coming?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Black-Francis/Ghost-Coming/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-09-06T17:15:21Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 6522129,
+                        "track_name": "The Ballad of Jody Frosty",
+                        "track_name_translation_list": [],
+                        "track_rating": 26,
+                        "commontrack_id": 2003830,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 10772637,
+                        "album_name": "The Ballad of Jody Frosty",
+                        "artist_id": 21150,
+                        "artist_name": "Masters of Reality",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Masters-of-Reality/The-Ballad-of-Jody-Frosty?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Masters-of-Reality/The-Ballad-of-Jody-Frosty/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-02T07:21:37Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 76351992,
+                        "track_name": "Watch n Learn",
+                        "track_name_translation_list": [],
+                        "track_rating": 21,
+                        "commontrack_id": 42257476,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 6,
+                        "album_id": 19975084,
+                        "album_name": "Demo 2000",
+                        "artist_id": 24865502,
+                        "artist_name": "LD50",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/LD50/Watch-n-Learn?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/LD50/Watch-n-Learn/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-02-26T08:41:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1153,
+                                        "music_genre_parent_id": 21,
+                                        "music_genre_name": "Heavy Metal",
+                                        "music_genre_name_extended": "Rock / Heavy Metal",
+                                        "music_genre_vanity": "Rock-Heavy-Metal"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 44019245,
+                        "track_name": "Let Me Give It To You",
+                        "track_name_translation_list": [
+                            {
+                                "track_name_translation": {
+                                    "language": "EN",
+                                    "translation": "Let Me Give It To You"
+                                }
+                            }
+                        ],
+                        "track_rating": 32,
+                        "commontrack_id": 18916521,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 3,
+                        "album_id": 16156645,
+                        "album_name": "Nine Miss U 2",
+                        "artist_id": 420824,
+                        "artist_name": "Clash",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Clash/Let-Me-Give-It-To-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Clash/Let-Me-Give-It-To-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-06-25T19:35:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 54107174,
+                        "track_name": "S.L.Y.",
+                        "track_name_translation_list": [],
+                        "track_rating": 33,
+                        "commontrack_id": 1460271,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17170188,
+                        "album_name": "Atomic Rooster",
+                        "artist_id": 11965,
+                        "artist_name": "Atomic Rooster",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Atomic-Rooster/S-L-Y?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Atomic-Rooster/S-L-Y/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-17T06:29:30Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4276407,
+                        "track_name": "Three Persons",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2601149,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10572393,
+                        "album_name": "Sincerely",
+                        "artist_id": 37443,
+                        "artist_name": "Dwight Twilley Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dwight-Twilley-Band/Three-Persons?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dwight-Twilley-Band/Three-Persons/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-06-24T18:55:03Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3410658,
+                        "track_name": "LAST SONG",
+                        "track_name_translation_list": [],
+                        "track_rating": 34,
+                        "commontrack_id": 7086664,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10498681,
+                        "album_name": "FORESIGHTS",
+                        "artist_id": 95947,
+                        "artist_name": "Beat Crusaders",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/BEAT-CRUSADERS/Last-Song?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/BEAT-CRUSADERS/Last-Song/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-12-02T18:05:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 56755574,
+                        "track_name": "Louie Louie",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 528585,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17437254,
+                        "album_name": "Rebellious Jukebox Vol.3 ((Or Burn It All Down Live))",
+                        "artist_id": 2636,
+                        "artist_name": "The Fall",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Fall/Louie-Louie?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Fall/Louie-Louie/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-14T22:15:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 10162157,
+                        "track_name": "Up Your Mind",
+                        "track_name_translation_list": [],
+                        "track_rating": 43,
+                        "commontrack_id": 134055,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11079684,
+                        "album_name": "The Lost Tapes, Volume 1",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Up-Your-Mind?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Up-Your-Mind/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T15:25:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3651015,
+                        "track_name": "Deuce",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1984310,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10519030,
+                        "album_name": "Fishdick",
+                        "artist_id": 20737,
+                        "artist_name": "Acid Drinkers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Acid-Drinkers/Deuce?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Acid-Drinkers/Deuce/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-31T18:40:43Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1149,
+                                        "music_genre_parent_id": 21,
+                                        "music_genre_name": "Death Metal/Black Metal",
+                                        "music_genre_name_extended": "Rock / Death Metal/Black Metal",
+                                        "music_genre_vanity": "Rock-Death-Metal-Black-Metal"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 5979876,
+                        "track_name": "Get Closer",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 3336264,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10723005,
+                        "album_name": "Cadets A-Go-Go",
+                        "artist_id": 68539,
+                        "artist_name": "The Space Cadets",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Space-Cadets/Get-Closer?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Space-Cadets/Get-Closer/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-12-19T10:49:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 44153298,
+                        "track_name": "Rescue Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 285701,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16172357,
+                        "album_name": "Synchronistic Wanderings (Remastered)",
+                        "artist_id": 969,
+                        "artist_name": "Pat Benatar",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Pat-Benatar/Rescue-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Pat-Benatar/Rescue-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T15:56:49Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 79832042,
+                        "track_name": "Twist & Shout",
+                        "track_name_translation_list": [],
+                        "track_rating": 8,
+                        "commontrack_id": 122221,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20411948,
+                        "album_name": "The Roxy Theater, West Hollywood July 7, 1978 - Live FM Radio Broadcast Concert (Remastered)",
+                        "artist_id": 373,
+                        "artist_name": "Bruce Springsteen",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Bruce-Springsteen/Twist-Shout?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Bruce-Springsteen/Twist-Shout/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-02-26T05:10:06Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 41380592,
+                        "track_name": "Nose In Your Blow",
+                        "track_name_translation_list": [],
+                        "track_rating": 34,
+                        "commontrack_id": 133839,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15986179,
+                        "album_name": "Payin' Dues CD2",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Nose-In-Your-Blow?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Nose-In-Your-Blow/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-09T05:21:11Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 17466049,
+                        "track_name": "Whole Lotta Shaking Going On",
+                        "track_name_translation_list": [],
+                        "track_rating": 2,
+                        "commontrack_id": 10172282,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 14216211,
+                        "album_name": "Talking 'Bout Soul",
+                        "artist_id": 1574,
+                        "artist_name": "Little Richard",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Little-Richard/Whole-Lotta-Shaking-Going-On?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Little-Richard/Whole-Lotta-Shaking-Going-On/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-01-11T09:15:06Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1124682,
+                        "track_name": "Come Back Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 744345,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10312436,
+                        "album_name": "Big Sugar",
+                        "artist_id": 6394,
+                        "artist_name": "Big Sugar",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Big-Sugar/Come-Back-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Big-Sugar/Come-Back-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T16:58:36Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 91536439,
+                        "track_name": "All Your Love - 1990",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 13682848,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 21359609,
+                        "album_name": "Essential Montreux (Live)",
+                        "artist_id": 6872,
+                        "artist_name": "Gary Moore",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Gary-Moore/All-Your-Love-1990?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Gary-Moore/All-Your-Love-1990/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-01T18:46:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2448030,
+                        "track_name": "I Just Wanna Make Love to You",
+                        "track_name_translation_list": [],
+                        "track_rating": 34,
+                        "commontrack_id": 462691,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 10418833,
+                        "album_name": "Frigate",
+                        "artist_id": 1766,
+                        "artist_name": "April Wine",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/April-Wine/I-Just-Wanna-Make-Love-To-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/April-Wine/I-Just-Wanna-Make-Love-To-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-31T21:57:14Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 82383622,
+                        "track_name": "You Won't See Me Anymore",
+                        "track_name_translation_list": [],
+                        "track_rating": 33,
+                        "commontrack_id": 2714761,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 5,
+                        "album_id": 20717421,
+                        "album_name": "Man of the World - The Anthology 1968-1988",
+                        "artist_id": 40289,
+                        "artist_name": "Peter Green",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Peter-Green/You-Won-t-See-Me-Anymore?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Peter-Green/You-Won-t-See-Me-Anymore/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-02-12T18:21:41Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 55348945,
+                        "track_name": "Tonight I'll Go Out Alone",
+                        "track_name_translation_list": [
+                            {
+                                "track_name_translation": {
+                                    "language": "JA",
+                                    "translation": "トゥナイトアイルゴーアウトアローン"
+                                }
+                            }
+                        ],
+                        "track_rating": 1,
+                        "commontrack_id": 3428275,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17291351,
+                        "album_name": "Rubber & Meat Deluxe Edition",
+                        "artist_id": 73114,
+                        "artist_name": "Kissogram",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Kissogram/Tonight-I-ll-Go-Out-Alone?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Kissogram/Tonight-I-ll-Go-Out-Alone/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-12-01T03:20:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 31927550,
+                        "track_name": "Psycho",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 271861,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11334645,
+                        "album_name": "Vom Rest das Beste: Die DTH Single-B-Seiten Kollektion",
+                        "artist_id": 888,
+                        "artist_name": "Die Toten Hosen",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Die-Toten-Hosen/Psycho?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Die-Toten-Hosen/Psycho/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T15:53:51Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 36956664,
+                        "track_name": "紫色のビーナス",
+                        "track_name_translation_list": [
+                            {
+                                "track_name_translation": {
+                                    "language": "EN",
+                                    "translation": "PURPLE VENUS"
+                                }
+                            },
+                            {
+                                "track_name_translation": {
+                                    "language": "JA",
+                                    "translation": "むらさき いろ の びーなす"
+                                }
+                            }
+                        ],
+                        "track_rating": 1,
+                        "commontrack_id": 15358774,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15706388,
+                        "album_name": "WHO KILL THE WORLD TUNE VER.",
+                        "artist_id": 172242,
+                        "artist_name": "THE STAR CLUB",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/THE-STAR-CLUB/%E7%B4%AB%E8%89%B2%E3%81%AE%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/THE-STAR-CLUB/%E7%B4%AB%E8%89%B2%E3%81%AE%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-01-30T13:25:23Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 51439251,
+                        "track_name": "Topless",
+                        "track_name_translation_list": [],
+                        "track_rating": 4,
+                        "commontrack_id": 24190658,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 2,
+                        "album_id": 16893390,
+                        "album_name": "Tweak'd Out, Strung Up & Redlined",
+                        "artist_id": 11221255,
+                        "artist_name": "Eighteen Wheels Burning",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Eighteen-Wheels-Burning/Topless?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Eighteen-Wheels-Burning/Topless/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-05-13T01:16:32Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 47485041,
+                        "track_name": "Baby Baby Bye Bye",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 261800,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16481540,
+                        "album_name": "Sun Essentials (Disc 2)",
+                        "artist_id": 843,
+                        "artist_name": "Jerry Lee Lewis",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Jerry-Lee-Lewis/Baby-Baby-Bye-Bye?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Jerry-Lee-Lewis/Baby-Baby-Bye-Bye/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-11T16:58:45Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 19019922,
+                        "track_name": "Baby That's All",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 975444,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 14286121,
+                        "album_name": "Bus Stop",
+                        "artist_id": 7572,
+                        "artist_name": "The Hollies",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Hollies/Baby-That-s-All?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Hollies/Baby-That-s-All/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-13T19:10:34Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 33985501,
+                        "track_name": "How Can Anything Be Beautiful (After You)",
+                        "track_name_translation_list": [],
+                        "track_rating": 44,
+                        "commontrack_id": 910876,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 2,
+                        "album_id": 15494708,
+                        "album_name": "Anka",
+                        "artist_id": 7253,
+                        "artist_name": "Paul Anka",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Paul-Anka/How-Can-Anything-Be-Beautiful-After-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Paul-Anka/How-Can-Anything-Be-Beautiful-After-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-11-08T17:50:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60526478,
+                        "track_name": "Bye, Bye, Bird",
+                        "track_name_translation_list": [],
+                        "track_rating": 2,
+                        "commontrack_id": 15405982,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17892439,
+                        "album_name": "Classic Yardbirds, Vol. 2",
+                        "artist_id": 13360,
+                        "artist_name": "The Yardbirds",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Yardbirds/Bye-Bye-Bird?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Yardbirds/Bye-Bye-Bird/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-11T15:15:48Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 9554071,
+                        "track_name": "If My Baby Quit Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1455741,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11039372,
+                        "album_name": "Primo",
+                        "artist_id": 11917,
+                        "artist_name": "Dr. Feelgood",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/If-My-Baby-Quit-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/If-My-Baby-Quit-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T18:30:22Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 2,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Blues",
+                                        "music_genre_name_extended": "Blues",
+                                        "music_genre_vanity": "Blues"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 57479953,
+                        "track_name": "Wee Wee Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2531436,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17523553,
+                        "album_name": "Too Blind to See",
+                        "artist_id": 24578230,
+                        "artist_name": "Cuby + Blizzards",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Cuby-The-Blizzards/Wee-Wee-Baby-2?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Cuby-The-Blizzards/Wee-Wee-Baby-2/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-11-29T10:43:43Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 99557884,
+                        "track_name": "Caress Me Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 46,
+                        "commontrack_id": 788111,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22017953,
+                        "album_name": "Steve Miller Band",
+                        "artist_id": 6684,
+                        "artist_name": "The Steve Miller Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Caress-Me-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Miller-Band/Caress-Me-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T17:05:17Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 12198802,
+                        "track_name": "Bring It on Home",
+                        "track_name_translation_list": [],
+                        "track_rating": 3,
+                        "commontrack_id": 8870952,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 12209076,
+                        "album_name": "Fishdick Zwei: The Dick Is Rising Again",
+                        "artist_id": 20737,
+                        "artist_name": "Acid Drinkers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Acid-Drinkers/Bring-It-On-Home?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Acid-Drinkers/Bring-It-On-Home/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-02-20T09:32:37Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 5026437,
+                        "track_name": "Baby Let's Go",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 8312423,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10637153,
+                        "album_name": "Miss Crazy",
+                        "artist_id": 217061,
+                        "artist_name": "Miss Crazy",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Miss-Crazy/Baby-Let-s-Go?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Miss-Crazy/Baby-Let-s-Go/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-06-11T04:45:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4016938,
+                        "track_name": "Lovin' In My Baby's Eyes",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2309624,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10550329,
+                        "album_name": "Geronimo",
+                        "artist_id": 29052,
+                        "artist_name": "Shannon McNally",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Shannon-McNally/Lovin-in-My-Baby-s-Eyes?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Shannon-McNally/Lovin-in-My-Baby-s-Eyes/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-02-01T10:43:56Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 92012503,
+                        "track_name": "Medley: Roadhouse Medley - Full Version",
+                        "track_name_translation_list": [],
+                        "track_rating": 28,
+                        "commontrack_id": 15924989,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 21392806,
+                        "album_name": "Live Alive Quo",
+                        "artist_id": 6757,
+                        "artist_name": "Status Quo",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Status-Quo/Medley-Roadhouse-Medley-Full-Version?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Status-Quo/Medley-Roadhouse-Medley-Full-Version/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-09-02T18:14:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 11171027,
+                        "track_name": "I'm in Love With You",
+                        "track_name_translation_list": [],
+                        "track_rating": 7,
+                        "commontrack_id": 6763323,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13821693,
+                        "album_name": "Industrial Silence",
+                        "artist_id": 8517,
+                        "artist_name": "Madrugada",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Madrugada/I-m-in-Love-With-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Madrugada/I-m-in-Love-With-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-16T01:33:02Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 5030465,
+                        "track_name": "Little Shimmy in a Conga Line",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1647207,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10637522,
+                        "album_name": "The Wind at Four to Fly",
+                        "artist_id": 14512,
+                        "artist_name": "The Disco Biscuits",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Disco-Biscuits/Little-Shimmy-in-a-Conga-Line?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Disco-Biscuits/Little-Shimmy-in-a-Conga-Line/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T18:51:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 38142515,
+                        "track_name": "My Baby's Sweet",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 67358,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 15788951,
+                        "album_name": "One Night Only - Live '68",
+                        "artist_id": 158,
+                        "artist_name": "Fleetwood Mac",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Fleetwood-Mac/My-Baby-s-Sweet?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Fleetwood-Mac/My-Baby-s-Sweet/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-06-30T08:50:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 15960751,
+                        "track_name": "Just in Time",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 787568,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13922069,
+                        "album_name": "One Step Closer",
+                        "artist_id": 6681,
+                        "artist_name": "The Doobie Brothers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Doobie-Brothers/Just-in-Time?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Doobie-Brothers/Just-in-Time/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-01T16:06:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2003413,
+                        "track_name": "Don't Worry Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 10,
+                        "commontrack_id": 3013715,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10382837,
+                        "album_name": "She Talks to Rainbows",
+                        "artist_id": 53590,
+                        "artist_name": "Ronnie Spector",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ronnie-Spector/Don-t-Worry-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ronnie-Spector/Don-t-Worry-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-04-11T00:38:25Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 33861578,
+                        "track_name": "Yea, Yea",
+                        "track_name_translation_list": [],
+                        "track_rating": 37,
+                        "commontrack_id": 869298,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15486987,
+                        "album_name": "Road to Ruin (Deluxe Edition)",
+                        "artist_id": 7082,
+                        "artist_name": "Ramones",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ramones/Yea-Yea?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ramones/Yea-Yea/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-02T03:36:58Z",
+                        "primary_genres": {
+                            "music_genre_list": []
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 44040177,
+                        "track_name": "Love of My Life, Pt. 1",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 18942081,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 16158441,
+                        "album_name": "Classic Everly Brothers",
+                        "artist_id": 64847,
+                        "artist_name": "The Everly Brothers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Everly-Brothers/Love-of-My-Life-Pt-1?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Everly-Brothers/Love-of-My-Life-Pt-1/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-15T09:33:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 56745126,
+                        "track_name": "How Long Blues",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 673760,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17436045,
+                        "album_name": "2000-11-15 The Birchmere, Alexandria, VA",
+                        "artist_id": 5067,
+                        "artist_name": "Hot Tuna",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Hot-Tuna/How-Long-Blues?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Hot-Tuna/How-Long-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T16:50:17Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 16915909,
+                        "track_name": "Wiggle Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 11072952,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 14190390,
+                        "album_name": "Live and Wild",
+                        "artist_id": 13960836,
+                        "artist_name": "Mystery Gang",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Mystery-Gang/Wiggle-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Mystery-Gang/Wiggle-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2012-11-13T16:40:06Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 36779919,
+                        "track_name": "Journey Into Space, Pt. One",
+                        "track_name_translation_list": [],
+                        "track_rating": 5,
+                        "commontrack_id": 15246252,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 15695464,
+                        "album_name": "The End Is Not the End",
+                        "artist_id": 109261,
+                        "artist_name": "House of Heroes",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/House-of-Heroes/Journey-Into-Space-Pt-One?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/House-of-Heroes/Journey-Into-Space-Pt-One/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-09-03T09:45:29Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 41380604,
+                        "track_name": "Walk And Talk",
+                        "track_name_translation_list": [],
+                        "track_rating": 44,
+                        "commontrack_id": 134067,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15986179,
+                        "album_name": "Payin' Dues CD2",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Walk-And-Talk?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Walk-And-Talk/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T15:25:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1245510,
+                        "track_name": "Baby Teen",
+                        "track_name_translation_list": [],
+                        "track_rating": 17,
+                        "commontrack_id": 1274308,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10322166,
+                        "album_name": "A Spy in the House of Love",
+                        "artist_id": 10133,
+                        "artist_name": "The House of Love",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-House-of-Love/Baby-Teen?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-House-of-Love/Baby-Teen/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-05-03T08:25:33Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4928346,
+                        "track_name": "Landslide",
+                        "track_name_translation_list": [],
+                        "track_rating": 33,
+                        "commontrack_id": 1127695,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10628111,
+                        "album_name": "Every Beat of My Heart",
+                        "artist_id": 8677,
+                        "artist_name": "Stan Bush",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Stan-Bush/Landslide?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Stan-Bush/Landslide/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-13T14:00:25Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 6398187,
+                        "track_name": "Rescue Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 22,
+                        "commontrack_id": 5606576,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10761615,
+                        "album_name": "Duna",
+                        "artist_id": 312187,
+                        "artist_name": "Sorkun",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Sorkun/Rescue-me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Sorkun/Rescue-me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-04-05T22:15:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 72601054,
+                        "track_name": "There Goes My Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 34,
+                        "commontrack_id": 37206968,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 3,
+                        "album_id": 19583993,
+                        "album_name": "There Goes My Baby",
+                        "artist_id": 34191438,
+                        "artist_name": "Jay & The Americans",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Jay-feat-The-Americans/There-Goes-My-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Jay-feat-The-Americans/There-Goes-My-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2017-10-31T05:08:24Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 37910206,
+                        "track_name": "Dream Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 40,
+                        "commontrack_id": 15775569,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15768118,
+                        "album_name": "Heroes: Giants of Early Guitar Rock (Deluxe Version)",
+                        "artist_id": 8230,
+                        "artist_name": "Dion",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dion/Dream-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dion/Dream-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-05-24T19:05:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 83151389,
+                        "track_name": "The Loco-Motion(ロコモーション)",
+                        "track_name_translation_list": [
+                            {
+                                "track_name_translation": {
+                                    "language": "JA",
+                                    "translation": "ロコモーション"
+                                }
+                            }
+                        ],
+                        "track_rating": 1,
+                        "commontrack_id": 46469544,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20778778,
+                        "album_name": "君がいる夏",
+                        "artist_id": 139871,
+                        "artist_name": "Deen",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Deen-2/The-Loco-Motion-%E3%83%AD%E3%82%B3%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Deen-2/The-Loco-Motion-%E3%83%AD%E3%82%B3%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-04T13:08:15Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 607004,
+                        "track_name": "Hermaphrodite",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 587308,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10270447,
+                        "album_name": "Temple of the Morning Star",
+                        "artist_id": 3468,
+                        "artist_name": "Today Is the Day",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Today-Is-the-Day/Hermaphrodite?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Today-Is-the-Day/Hermaphrodite/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T16:40:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1153,
+                                        "music_genre_parent_id": 21,
+                                        "music_genre_name": "Heavy Metal",
+                                        "music_genre_name_extended": "Rock / Heavy Metal",
+                                        "music_genre_vanity": "Rock-Heavy-Metal"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1275442,
+                        "track_name": "Baby Blues",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2431881,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10324611,
+                        "album_name": "The Low Life",
+                        "artist_id": 32186,
+                        "artist_name": "The Low Life",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Low-Life/Baby-Blues?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Low-Life/Baby-Blues/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-12-06T06:35:06Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 82345220,
+                        "track_name": "Black Dog",
+                        "track_name_translation_list": [],
+                        "track_rating": 4,
+                        "commontrack_id": 45884564,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20715197,
+                        "album_name": "Farm Machine",
+                        "artist_id": 28620546,
+                        "artist_name": "Steve`n`Seagulls",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve%60n%60Seagulls/Black-Dog?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve%60n%60Seagulls/Black-Dog/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-05-24T22:54:36Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2090399,
+                        "track_name": "Junior's Wailing",
+                        "track_name_translation_list": [],
+                        "track_rating": 24,
+                        "commontrack_id": 2497187,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 2,
+                        "album_id": 10389866,
+                        "album_name": "Reflection",
+                        "artist_id": 34382,
+                        "artist_name": "Steamhammer",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steamhammer/Junior-s-Wailing?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steamhammer/Junior-s-Wailing/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T10:58:08Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 99878849,
+                        "track_name": "Anywhere But Home",
+                        "track_name_translation_list": [],
+                        "track_rating": 40,
+                        "commontrack_id": 277321,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 2,
+                        "album_id": 22049315,
+                        "album_name": "Black Velvet",
+                        "artist_id": 921,
+                        "artist_name": "Alannah Myles",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Alannah-Myles/Anywhere-But-Home?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Alannah-Myles/Anywhere-But-Home/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T15:54:58Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 2,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Blues",
+                                        "music_genre_name_extended": "Blues",
+                                        "music_genre_vanity": "Blues"
+                                    }
+                                },
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 14,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Pop",
+                                        "music_genre_name_extended": "Pop",
+                                        "music_genre_vanity": "Pop"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1998350,
+                        "track_name": "You Upset Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1455918,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10382433,
+                        "album_name": "Live In London",
+                        "artist_id": 11917,
+                        "artist_name": "Dr. Feelgood",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/You-Upset-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/You-Upset-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-31T19:47:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 8221892,
+                        "track_name": "Sick and Tired",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 624450,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10932305,
+                        "album_name": "All by Hisself: Live at the Lonestar",
+                        "artist_id": 4159,
+                        "artist_name": "Dr. John",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dr-John/Sick-and-Tired?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-John/Sick-and-Tired/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-14T10:36:28Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 94352228,
+                        "track_name": "Maybe, Baby - Swing Style",
+                        "track_name_translation_list": [],
+                        "track_rating": 36,
+                        "commontrack_id": 309454,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 21560662,
+                        "album_name": "Big Big World",
+                        "artist_id": 1083,
+                        "artist_name": "Emilia",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Emilia/Maybe-Baby-Swing-Style?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Emilia/Maybe-Baby-Swing-Style/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-06-01T06:32:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3243119,
+                        "track_name": "Lucille",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 633839,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10484334,
+                        "album_name": "No Fire Without Smoke",
+                        "artist_id": 4284,
+                        "artist_name": "Ian Gillan",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Ian-Gillan/Lucille?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Ian-Gillan/Lucille/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-16T10:04:52Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 33366106,
+                        "track_name": "I'm Worried",
+                        "track_name_translation_list": [],
+                        "track_rating": 48,
+                        "commontrack_id": 10661387,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 15446190,
+                        "album_name": "In Chicago",
+                        "artist_id": 158,
+                        "artist_name": "Fleetwood Mac",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Fleetwood-Mac/I-m-Worried?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Fleetwood-Mac/I-m-Worried/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-12T07:26:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3814524,
+                        "track_name": "Roadrunner",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1455821,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10533002,
+                        "album_name": "Down At The Doctors",
+                        "artist_id": 11917,
+                        "artist_name": "Dr. Feelgood",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/Roadrunner?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dr-Feelgood/Roadrunner/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-15T06:38:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 17925350,
+                        "track_name": "Boo Hoo Hoo Hoo",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 437139,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 12920113,
+                        "album_name": "Little Richard",
+                        "artist_id": 1574,
+                        "artist_name": "Little Richard",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Little-Richard/Boo-Hoo-Hoo-Hoo?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Little-Richard/Boo-Hoo-Hoo-Hoo/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T16:18:46Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 10162151,
+                        "track_name": "Shake It Mable",
+                        "track_name_translation_list": [],
+                        "track_rating": 45,
+                        "commontrack_id": 133924,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11079684,
+                        "album_name": "The Lost Tapes, Volume 1",
+                        "artist_id": 415,
+                        "artist_name": "Van Morrison",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Shake-It-Mable?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Van-Morrison/Shake-It-Mable/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-05-09T05:21:28Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 47824427,
+                        "track_name": "You Don't Have To Go Out",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2633117,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16516007,
+                        "album_name": "Before the Dream Faded",
+                        "artist_id": 38398,
+                        "artist_name": "The Misunderstood",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Misunderstood/You-Don-t-Have-to-Go-Out?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Misunderstood/You-Don-t-Have-to-Go-Out/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2018-03-19T12:03:36Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 45402737,
+                        "track_name": "Backdoor Medley: Backdoor Love Affair / Mellow Down Easy / Backdoor Love Affair No. 2 / Long Distance Boogie",
+                        "track_name_translation_list": [],
+                        "track_rating": 7,
+                        "commontrack_id": 15042841,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10308549,
+                        "album_name": "Fandango!",
+                        "artist_id": 1294,
+                        "artist_name": "ZZ Top",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/ZZ-Top/Backdoor-Medley-Backdoor-Love-Affair-Mellow-Down-Easy-Backdoor-Love-Affair-No-2-Long-Distance-Boogie?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/ZZ-Top/Backdoor-Medley-Backdoor-Love-Affair-Mellow-Down-Easy-Backdoor-Love-Affair-No-2-Long-Distance-Boogie/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-11-12T07:22:47Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4720927,
+                        "track_name": "Cancer",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1939856,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10610011,
+                        "album_name": "Zodiac",
+                        "artist_id": 19806,
+                        "artist_name": "Eternity X",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Eternity-X/Cancer?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Eternity-X/Cancer/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T19:24:23Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 46731314,
+                        "track_name": "I Want You Back",
+                        "track_name_translation_list": [],
+                        "track_rating": 10,
+                        "commontrack_id": 20627366,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 16398748,
+                        "album_name": "Ticket Outta Loserville",
+                        "artist_id": 183769,
+                        "artist_name": "Son of Dork",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Son-of-Dork/I-Want-You-Back?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Son-of-Dork/I-Want-You-Back/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-03-23T22:17:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 55511201,
+                        "track_name": "Baby Satan",
+                        "track_name_translation_list": [],
+                        "track_rating": 6,
+                        "commontrack_id": 2724997,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17307570,
+                        "album_name": "The City Is Alive Tonight-Live In Baltimore",
+                        "artist_id": 40793,
+                        "artist_name": "Dog Fashion Disco",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Dog-Fashion-Disco/Baby-Satan?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Dog-Fashion-Disco/Baby-Satan/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T11:23:25Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 31657383,
+                        "track_name": "Say You Love Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 12356184,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 11318732,
+                        "album_name": "Down Baby Down",
+                        "artist_id": 382497,
+                        "artist_name": "Gemma Ray",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Gemma-Ray/Say-You-Love-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Gemma-Ray/Say-You-Love-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-10-23T03:31:42Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 17597054,
+                        "track_name": "Hosting a Murder",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 7127607,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10546717,
+                        "album_name": "Darts to the Sea",
+                        "artist_id": 98242,
+                        "artist_name": "Trophy Scars",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Trophy-Scars/Hosting-a-Murder?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Trophy-Scars/Hosting-a-Murder/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T19:24:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 92649870,
+                        "track_name": "Kimi No Hitomi Ni Koi Shiteru -Can't Take My Eyes Off Of You-",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 12607430,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 21436524,
+                        "album_name": "Watashi To Houden -Electric Discharge & Me-",
+                        "artist_id": 24466343,
+                        "artist_name": "Sheena Ringo",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Sheena-Ringo/Kimi-no-Hitomi-ni-Koi-Shiteru-Can-t-Take-My-Eyes-Off-of-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Sheena-Ringo/Kimi-no-Hitomi-ni-Koi-Shiteru-Can-t-Take-My-Eyes-Off-of-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-11-18T10:18:24Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 45865935,
+                        "track_name": "Sock It to Me Baby",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1281229,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16312198,
+                        "album_name": "Let Them Eat Pussy",
+                        "artist_id": 10269,
+                        "artist_name": "Nashville Pussy",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Nashville-Pussy/Sock-It-to-Me-Baby?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Nashville-Pussy/Sock-It-to-Me-Baby/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2018-02-13T10:35:29Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 21,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Rock",
+                                        "music_genre_name_extended": "Rock",
+                                        "music_genre_vanity": "Rock"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

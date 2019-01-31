@@ -1,0 +1,3613 @@
+{
+    "message": {
+        "header": {
+            "status_code": 200,
+            "execute_time": 0.14501786231995,
+            "available": 10000
+        },
+        "body": {
+            "track_list": [
+                {
+                    "track": {
+                        "track_id": 47718994,
+                        "track_name": "My My My",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 21377824,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16505210,
+                        "album_name": "Live In Music City",
+                        "artist_id": 14744,
+                        "artist_name": "Legacy Five",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Legacy-Five/My-My-My?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Legacy-Five/My-My-My/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-08-29T23:39:33Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 77759164,
+                        "track_name": "Glory to God (Split)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 42688431,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20163987,
+                        "album_name": "Ultimate Kids Christmas Worship (Deluxe Performance Tracks Edition)",
+                        "artist_id": 25940278,
+                        "artist_name": "Shout Praises Kids",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Shout-Praises-Kids-2/Glory-to-God-Split?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Shout-Praises-Kids-2/Glory-to-God-Split/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-30T20:46:51Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 49798496,
+                        "track_name": "How Long? (Though We Walk)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22955023,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16718905,
+                        "album_name": "Bring On the Day",
+                        "artist_id": 386333,
+                        "artist_name": "Garage Hymnal",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Garage-Hymnal/How-Long-Though-We-Walk?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Garage-Hymnal/How-Long-Though-We-Walk/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-18T03:11:03Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 69061745,
+                        "track_name": "Your Love",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 37225061,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19095830,
+                        "album_name": "You Are Good",
+                        "artist_id": 300239,
+                        "artist_name": "Matt Papa",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Matt-Papa/Your-Love?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Matt-Papa/Your-Love/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-07T04:39:07Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 32145276,
+                        "track_name": "I'm Cured",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 12572496,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15340711,
+                        "album_name": "Soundproof",
+                        "artist_id": 17621,
+                        "artist_name": "ApologetiX",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/ApologetiX/I-m-Cured?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/ApologetiX/I-m-Cured/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-07T16:32:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 83747019,
+                        "track_name": "Spectacle of Light",
+                        "track_name_translation_list": [],
+                        "track_rating": 23,
+                        "commontrack_id": 46921149,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 20835383,
+                        "album_name": "Only You",
+                        "artist_id": 28748755,
+                        "artist_name": "SHINEBRIGHT",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/SHINEBRIGHT/Spectacle-of-Light?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/SHINEBRIGHT/Spectacle-of-Light/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-11T07:32:58Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 51763045,
+                        "track_name": "United We Stand (Live)",
+                        "track_name_translation_list": [],
+                        "track_rating": 29,
+                        "commontrack_id": 24433343,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16927842,
+                        "album_name": "Live In New York",
+                        "artist_id": 26333124,
+                        "artist_name": "Rev. Timothy Wright & The New York Fellowship Mass Choir II",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Rev-Timothy-Wright-The-New-York-Fellowship-Mass-Choir-II/United-We-Stand-Live?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Rev-Timothy-Wright-The-New-York-Fellowship-Mass-Choir-II/United-We-Stand-Live/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2014-07-25T18:30:21Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 49054806,
+                        "track_name": "Powers of Fey",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22374846,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16640732,
+                        "album_name": "For the Lady and Lord",
+                        "artist_id": 26166923,
+                        "artist_name": "Lucidian",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Lucidian/Powers-of-Fey?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Lucidian/Powers-of-Fey/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-04-11T05:02:43Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 80229615,
+                        "track_name": "You Reign",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 44616193,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20454469,
+                        "album_name": "Rise",
+                        "artist_id": 28469306,
+                        "artist_name": "Audacious Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Audacious-Band/You-Reign?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Audacious-Band/You-Reign/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-15T22:58:02Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 80757088,
+                        "track_name": "And So We Sing",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 15979328,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20477982,
+                        "album_name": "Let All Creation Sing",
+                        "artist_id": 270437,
+                        "artist_name": "Emu Music",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Emu-Music/And-So-We-Sing?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Emu-Music/And-So-We-Sing/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-04T06:36:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60682995,
+                        "track_name": "God Loves Me Dearly",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 30766671,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17913023,
+                        "album_name": "Little Ones Sing Praise",
+                        "artist_id": 25002869,
+                        "artist_name": "Concordia Publishing House",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Concordia-Publishing-House/God-Loves-Me-Dearly?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Concordia-Publishing-House/God-Loves-Me-Dearly/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-31T17:21:41Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 55607072,
+                        "track_name": "Jerusalem",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 27071098,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17317005,
+                        "album_name": "Stand Ye Steady - Songs of Courage and Inspiration",
+                        "artist_id": 26563431,
+                        "artist_name": "USMA Cadet Glee Club",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/USMA-Cadet-Glee-Club/Jerusalem?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/USMA-Cadet-Glee-Club/Jerusalem/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-11-04T17:04:06Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 79911026,
+                        "track_name": "A Song of Lamentation",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 44407430,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20421302,
+                        "album_name": "Songs of Sorrow / Songs of Hope",
+                        "artist_id": 28433903,
+                        "artist_name": "Steve Schallert",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Schallert-2/A-Song-of-Lamentation?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Schallert-2/A-Song-of-Lamentation/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-08-28T04:53:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 80165838,
+                        "track_name": "Everybody Ought to Know",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 44557997,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20448112,
+                        "album_name": "Vintage",
+                        "artist_id": 28465088,
+                        "artist_name": "Rob Mills Family",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Rob-Mills-Family/Everybody-Ought-to-Know?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Rob-Mills-Family/Everybody-Ought-to-Know/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-30T09:59:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 19810229,
+                        "track_name": "Word From the Wise",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 12084625,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 14327445,
+                        "album_name": "East to West",
+                        "artist_id": 18230,
+                        "artist_name": "East to West",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/East-to-West/Word-From-the-Wise?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/East-to-West/Word-From-the-Wise/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-08-10T22:09:12Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1264460,
+                        "track_name": "Ps148",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2417398,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10323673,
+                        "album_name": "Then Is the New Now",
+                        "artist_id": 31770,
+                        "artist_name": "Denison Marrs",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Denison-Marrs/Ps148?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Denison-Marrs/Ps148/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T10:46:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 35381085,
+                        "track_name": "Speak Lord",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14624180,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15601493,
+                        "album_name": "This Joy",
+                        "artist_id": 24945199,
+                        "artist_name": "Tata Vega",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Tata-Vega/Speak-Lord?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Tata-Vega/Speak-Lord/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-22T19:22:44Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 62622874,
+                        "track_name": "My Help Cometh from the Lord",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 32407040,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 3,
+                        "album_id": 18163377,
+                        "album_name": "Be Still My Soul: reflections of peace and hope",
+                        "artist_id": 27037667,
+                        "artist_name": "Peace Together Choir",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Peace-Together-Choir/My-Help-Cometh-from-the-Lord?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Peace-Together-Choir/My-Help-Cometh-from-the-Lord/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-08T08:20:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 916677,
+                        "track_name": "Live This",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 927754,
+                        "instrumental": 0,
+                        "explicit": 1,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10296144,
+                        "album_name": "Stop The Music",
+                        "artist_id": 7349,
+                        "artist_name": "New Breed",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/New-Breed/Live-This?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/New-Breed/Live-This/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-04-27T04:30:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 61663890,
+                        "track_name": "In Your Sovereignty",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 31608224,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18036210,
+                        "album_name": "The God Anthology",
+                        "artist_id": 26973989,
+                        "artist_name": "National Community Church",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/National-Community-Church/In-Your-Sovereignty?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/National-Community-Church/In-Your-Sovereignty/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-24T05:56:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 4992324,
+                        "track_name": "Lamb of God",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2319209,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10633991,
+                        "album_name": "Kingdom Come",
+                        "artist_id": 29296,
+                        "artist_name": "Jill Phillips",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Jill-Phillips/Lamb-of-God?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Jill-Phillips/Lamb-of-God/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T10:36:10Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 35273466,
+                        "track_name": "I Watch the Sunrise.",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14543836,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15594395,
+                        "album_name": "Glory and Grace",
+                        "artist_id": 24936340,
+                        "artist_name": "James Kilbane",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/James-Kilbane/I-Watch-the-Sunrise?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/James-Kilbane/I-Watch-the-Sunrise/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-06T18:01:21Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 81271533,
+                        "track_name": "Hail Redeemer King Divine",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 45193750,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20558663,
+                        "album_name": "Timeless Catholic Hymns",
+                        "artist_id": 25049046,
+                        "artist_name": "Monix",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Monix/Hail-Redeemer-King-Divine?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Monix/Hail-Redeemer-King-Divine/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-17T10:16:29Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 62232054,
+                        "track_name": "As We Celebrate",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 32106107,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18109360,
+                        "album_name": "I Will Not Forget You, Vol.2",
+                        "artist_id": 25005535,
+                        "artist_name": "Carey Landry",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Carey-Landry/As-We-Celebrate?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Carey-Landry/As-We-Celebrate/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-17T13:13:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 65304021,
+                        "track_name": "When I Survey the Wondrous Cross",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 34454105,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18551564,
+                        "album_name": "Say Jesus: Songs of Healing and Hope",
+                        "artist_id": 24778411,
+                        "artist_name": "Brad Russell",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Brad-Russell/When-I-Survey-the-Wondrous-Cross?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Brad-Russell/When-I-Survey-the-Wondrous-Cross/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-18T18:36:44Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 35337323,
+                        "track_name": "So I Will Come",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14592759,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15598637,
+                        "album_name": "Merciful to Me",
+                        "artist_id": 24941694,
+                        "artist_name": "Reformed Praise",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/So-I-Will-Come?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/So-I-Will-Come/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-28T10:52:17Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 35337326,
+                        "track_name": "Glory Is Certain",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14592751,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15598637,
+                        "album_name": "Merciful to Me",
+                        "artist_id": 24941694,
+                        "artist_name": "Reformed Praise",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/Glory-Is-Certain?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/Glory-Is-Certain/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-28T10:53:43Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 35337319,
+                        "track_name": "There Is No Greater Portrait",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14592760,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15598637,
+                        "album_name": "Merciful to Me",
+                        "artist_id": 24941694,
+                        "artist_name": "Reformed Praise",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/There-Is-No-Greater-Portrait?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Reformed-Praise/There-Is-No-Greater-Portrait/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-28T10:50:15Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 65050626,
+                        "track_name": "You Deserve",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 34266139,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18515335,
+                        "album_name": "Erujeje (Awesome God)",
+                        "artist_id": 27189154,
+                        "artist_name": "David Oke",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/David-Oke/You-Deserve?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/David-Oke/You-Deserve/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-03T21:05:10Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34715808,
+                        "track_name": "You Satisfy the Hungry Heart",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14159967,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15554988,
+                        "album_name": "Catholic Classics, Vol. 2",
+                        "artist_id": 24839458,
+                        "artist_name": "Miscellaneous Artists",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Miscellaneous-Artists/You-Satisfy-the-Hungry-Heart?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Miscellaneous-Artists/You-Satisfy-the-Hungry-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-16T22:50:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 102586399,
+                        "track_name": "Everyday",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 23526235,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22315704,
+                        "album_name": "Believe",
+                        "artist_id": 24487964,
+                        "artist_name": "Jason Breland",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Jason-Breland/Everyday?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Jason-Breland/Everyday/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-11T17:02:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 107703144,
+                        "track_name": "Let Your Mantle Cover Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14796069,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22984037,
+                        "album_name": "Christ For Me",
+                        "artist_id": 24977353,
+                        "artist_name": "Edwin Brown",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Edwin-Brown/Let-Your-Mantle-Cover-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Edwin-Brown/Let-Your-Mantle-Cover-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-10T23:12:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 106124142,
+                        "track_name": "Maybe",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 21416624,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22758300,
+                        "album_name": "Exodus",
+                        "artist_id": 535271,
+                        "artist_name": "First Love",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/First-Love/Maybe?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/First-Love/Maybe/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-12T03:22:35Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 57988914,
+                        "track_name": "Days Like Today",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 28868099,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17581542,
+                        "album_name": "Gather 'Round",
+                        "artist_id": 113640,
+                        "artist_name": "11th Hour",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/11th-Hour/Days-Like-Today?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/11th-Hour/Days-Like-Today/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-08-19T15:30:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60499332,
+                        "track_name": "You Are My All In All",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 13848198,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17888981,
+                        "album_name": "The World's Most Loved Classic Worship Songs",
+                        "artist_id": 24752613,
+                        "artist_name": "Invitation Music",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Invitation-Music/You-Are-My-All-In-All?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Invitation-Music/You-Are-My-All-In-All/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-25T03:44:56Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 69054318,
+                        "track_name": "To the King",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 37220587,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19094678,
+                        "album_name": "Promise Keepers - Choose This Day",
+                        "artist_id": 83705,
+                        "artist_name": "Maranatha! Promise Band",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Maranatha-Promise-Band/To-the-King?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Maranatha-Promise-Band/To-the-King/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-07-24T20:31:41Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2627124,
+                        "track_name": "Sooner Or Later",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 7010776,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10433275,
+                        "album_name": "Words In Time",
+                        "artist_id": 91067,
+                        "artist_name": "Russ Lee",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Russ-Lee/Sooner-Or-Later?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Russ-Lee/Sooner-Or-Later/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-12T19:13:17Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2171271,
+                        "track_name": "Here I Go",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1835838,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10396449,
+                        "album_name": "Rejoice",
+                        "artist_id": 17629,
+                        "artist_name": "2nd Chapter of Acts",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/2nd-Chapter-of-Acts/Here-I-Go?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/2nd-Chapter-of-Acts/Here-I-Go/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T19:12:56Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2171277,
+                        "track_name": "Will You Remember Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 1835937,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10396449,
+                        "album_name": "Rejoice",
+                        "artist_id": 17629,
+                        "artist_name": "2nd Chapter of Acts",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/2nd-Chapter-of-Acts/Will-You-Remember-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/2nd-Chapter-of-Acts/Will-You-Remember-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-06-10T19:12:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 48734914,
+                        "track_name": "He Gave His Life",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22137678,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 16606952,
+                        "album_name": "Testimony",
+                        "artist_id": 26147722,
+                        "artist_name": "Lisa D.Nelson and Union Baptist Church Mass Choir",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Lisa-D-Nelson-and-Union-Baptist-Church-Mass-Choir/He-Gave-His-Life?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Lisa-D-Nelson-and-Union-Baptist-Church-Mass-Choir/He-Gave-His-Life/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-28T08:36:42Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 50322082,
+                        "track_name": "Somebody's Prayin' (Demo) [Performance Track]",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 23351851,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16774972,
+                        "album_name": "Somebody's Prayin' (As Originally Performed By Ricky Skaggs)",
+                        "artist_id": 26214846,
+                        "artist_name": "Praise Hymn",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Praise-Hymn/Somebody-s-Prayin-Demo-Performance-Track?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Praise-Hymn/Somebody-s-Prayin-Demo-Performance-Track/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-23T10:45:48Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 50557627,
+                        "track_name": "I Have Come to These Islands",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 23536001,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16800569,
+                        "album_name": "Very God",
+                        "artist_id": 277409,
+                        "artist_name": "Godfrey Birtill",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Godfrey-Birtill/I-Have-Come-to-These-Islands?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Godfrey-Birtill/I-Have-Come-to-These-Islands/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-31T19:36:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 64893328,
+                        "track_name": "The King Has Come",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 18323083,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18493500,
+                        "album_name": "Wonderful Story",
+                        "artist_id": 94038,
+                        "artist_name": "Eoghan Heaslip",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Eoghan-Heaslip/The-King-Has-Come?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Eoghan-Heaslip/The-King-Has-Come/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-10T18:38:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34655882,
+                        "track_name": "When I Say (Live)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14117839,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15550918,
+                        "album_name": "The Most Popular Worship Songs, Vol. 4 (Live)",
+                        "artist_id": 24749434,
+                        "artist_name": "Praise and Worship",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Praise-and-Worship/When-I-Say-Live?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Praise-and-Worship/When-I-Say-Live/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-26T16:27:35Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 65530621,
+                        "track_name": "Healer",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 34622665,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18583556,
+                        "album_name": "As It Is in Heaven",
+                        "artist_id": 25407166,
+                        "artist_name": "Westmont College Worship Team",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Westmont-College-Worship-Team/Healer?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Westmont-College-Worship-Team/Healer/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-11T04:24:58Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 53038921,
+                        "track_name": "Reckless Heart",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 25380981,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17060697,
+                        "album_name": "Al Denson",
+                        "artist_id": 8751,
+                        "artist_name": "Al Denson",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Al-Denson/Reckless-Heart?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Al-Denson/Reckless-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-13T15:35:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 52079253,
+                        "track_name": "Caravan",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 24675783,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16960592,
+                        "album_name": "It's Inevitable",
+                        "artist_id": 104690,
+                        "artist_name": "Steve Apirana",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Apirana/Caravan?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Apirana/Caravan/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-28T08:20:40Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 52022400,
+                        "track_name": "Ko Te Ingoa (National Anthem)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 24629704,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16954541,
+                        "album_name": "The Treaty",
+                        "artist_id": 25529482,
+                        "artist_name": "Cindy Ruakere",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Cindy-Ruakere/Ko-Te-Ingoa-National-Anthem?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Cindy-Ruakere/Ko-Te-Ingoa-National-Anthem/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-27T06:13:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 62768684,
+                        "track_name": "He Knows My Name",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 32549148,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18184022,
+                        "album_name": "A Consuming Fire",
+                        "artist_id": 24826767,
+                        "artist_name": "The ZOE Group",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-ZOE-Group/He-Knows-My-Name?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-ZOE-Group/He-Knows-My-Name/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-27T04:54:58Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 66620648,
+                        "track_name": "Let the Floodgates",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 35438506,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18743332,
+                        "album_name": "Come On Up",
+                        "artist_id": 24841020,
+                        "artist_name": "Steve Swanson",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Swanson-2/Let-the-Floodgates?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Swanson-2/Let-the-Floodgates/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-18T08:54:13Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 55159444,
+                        "track_name": "Be Thou My Vision",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 26730154,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17265216,
+                        "album_name": "Seasons of Our Faith",
+                        "artist_id": 13024720,
+                        "artist_name": "Jaime Thietten",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Jaime-Thietten/Be-Thou-My-Vision?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Jaime-Thietten/Be-Thou-My-Vision/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-14T09:54:58Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 47023515,
+                        "track_name": "Be Still My Soul",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 20654027,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16432702,
+                        "album_name": "Hyms 2 - Be Still My Soul",
+                        "artist_id": 25477393,
+                        "artist_name": "Mary Barrett",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Mary-Barrett/Be-Still-My-Soul?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Mary-Barrett/Be-Still-My-Soul/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-14T12:25:04Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 49599063,
+                        "track_name": "I Trust In You (AKA \"My Times Are In Your Hands\")",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22800978,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16697162,
+                        "album_name": "Hiding Place",
+                        "artist_id": 384263,
+                        "artist_name": "Chill Café",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Chill-Caf%C3%A9/I-Trust-In-You-AKA-My-Times-Are-In-Your-Hands?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Chill-Caf%C3%A9/I-Trust-In-You-AKA-My-Times-Are-In-Your-Hands/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-19T20:03:47Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 68198867,
+                        "track_name": "I Want To You To Know",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 36617401,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18980991,
+                        "album_name": "Live At Dollywood - Audio",
+                        "artist_id": 16369,
+                        "artist_name": "Kingdom Heirs",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Kingdom-Heirs/I-Want-To-You-To-Know?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Kingdom-Heirs/I-Want-To-You-To-Know/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-19T13:12:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 59016273,
+                        "track_name": "Oh How I Love Jesus",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 29579156,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17697142,
+                        "album_name": "Baptist Hymnal, Vol. 2",
+                        "artist_id": 25955162,
+                        "artist_name": "Tony Weeks",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Tony-Weeks/Oh-How-I-Love-Jesus?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Tony-Weeks/Oh-How-I-Love-Jesus/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-21T12:56:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 102795038,
+                        "track_name": "The Path of the Righteous",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 43506181,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22337894,
+                        "album_name": "Enter His Gates",
+                        "artist_id": 24487962,
+                        "artist_name": "Marty J. Nystrom",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Marty-J-Nystrom/The-Path-of-the-Righteous?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Marty-J-Nystrom/The-Path-of-the-Righteous/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-27T04:13:03Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 97544798,
+                        "track_name": "Reckless",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 53916659,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 21828087,
+                        "album_name": "Break My Heart",
+                        "artist_id": 30873953,
+                        "artist_name": "Alena Petersen",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Alena-Petersen/Reckless?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Alena-Petersen/Reckless/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-27T19:29:34Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 85152208,
+                        "track_name": "The Lord Bless You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 47972616,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 20956067,
+                        "album_name": "In Christ Alone",
+                        "artist_id": 26116202,
+                        "artist_name": "Noblesse",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Noblesse-2/The-Lord-Bless-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Noblesse-2/The-Lord-Bless-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-06-18T15:30:35Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 36266918,
+                        "track_name": "Mary Don't You Weep",
+                        "track_name_translation_list": [],
+                        "track_rating": 25,
+                        "commontrack_id": 15004927,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 15660823,
+                        "album_name": "A Sinner's Prayer",
+                        "artist_id": 1893,
+                        "artist_name": "Inez Andrews",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Inez-Andrews/Mary-Don-t-You-Weep?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Inez-Andrews/Mary-Don-t-You-Weep/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-08-11T17:19:57Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 55446537,
+                        "track_name": "How Doth Christ Execute the Office of a King?",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 26950231,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17300839,
+                        "album_name": "The Westminster Shorter Catechism Songs, Volume 1",
+                        "artist_id": 13870376,
+                        "artist_name": "Holly Dutton",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Holly-Dutton/How-Doth-Christ-Execute-the-Office-of-a-King?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Holly-Dutton/How-Doth-Christ-Execute-the-Office-of-a-King/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-09T22:38:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 64750077,
+                        "track_name": "Do Not Criticise",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 34043183,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18473051,
+                        "album_name": "Changing Me & Overflow of Worship",
+                        "artist_id": 355662,
+                        "artist_name": "Marilyn Baker",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Marilyn-Baker/Do-Not-Criticise?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Marilyn-Baker/Do-Not-Criticise/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-05T06:59:10Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 45423202,
+                        "track_name": "Hiding Place",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 19656836,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16269555,
+                        "album_name": "Colors",
+                        "artist_id": 24854141,
+                        "artist_name": "Grayson Kessenich",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Grayson-Kessenich/Hiding-Place?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Grayson-Kessenich/Hiding-Place/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-09-02T19:31:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 3554065,
+                        "track_name": "Getting used to the Darkness",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2332286,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10510773,
+                        "album_name": "The Ultimate Underlying No Denying Motivation",
+                        "artist_id": 29733,
+                        "artist_name": "Wes King",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Wes-King/Getting-used-to-the-Darkness?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Wes-King/Getting-used-to-the-Darkness/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-05T02:33:05Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 61277795,
+                        "track_name": "We Remember, We Believe",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 31242284,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17987096,
+                        "album_name": "Inescapable Love",
+                        "artist_id": 225748,
+                        "artist_name": "Steve Angrisano",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Steve-Angrisano/We-Remember-We-Believe?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Steve-Angrisano/We-Remember-We-Believe/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-09-07T16:35:16Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 47688271,
+                        "track_name": "My Life Will Worship You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 21355585,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 16501996,
+                        "album_name": "The Gospel Truth Revisited",
+                        "artist_id": 94039,
+                        "artist_name": "Greg Vail",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Greg-Vail/My-Life-Will-Worship-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Greg-Vail/My-Life-Will-Worship-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-05-23T06:21:20Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34855823,
+                        "track_name": "Welcome, Holy Spirit",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14257294,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15564695,
+                        "album_name": "Worship You",
+                        "artist_id": 24485619,
+                        "artist_name": "Solveig Leithaug",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Solveig-Leithaug/Welcome-Holy-Spirit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Solveig-Leithaug/Welcome-Holy-Spirit/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-09-12T07:05:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 108883909,
+                        "track_name": "The Lord's My Shepherd (Psalm 23)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22403818,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 23149345,
+                        "album_name": "The Hymn Makers: Stuart Townend (How Deep the Father's Love)",
+                        "artist_id": 26169063,
+                        "artist_name": "St. Michael's Singers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/St-Michael-s-Singers/The-Lord-s-My-Shepherd-Psalm-23?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/St-Michael-s-Singers/The-Lord-s-My-Shepherd-Psalm-23/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-09-27T09:28:51Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 108883905,
+                        "track_name": "O My Soul, Arise And Bless Your Maker",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 22403810,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 23149345,
+                        "album_name": "The Hymn Makers: Stuart Townend (How Deep the Father's Love)",
+                        "artist_id": 26169063,
+                        "artist_name": "St. Michael's Singers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/St-Michael-s-Singers-2/O-My-Soul-Arise-and-Bless-Your-Maker?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/St-Michael-s-Singers-2/O-My-Soul-Arise-and-Bless-Your-Maker/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-09-27T09:21:32Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 65493648,
+                        "track_name": "Loved",
+                        "track_name_translation_list": [],
+                        "track_rating": 24,
+                        "commontrack_id": 34596115,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 18578958,
+                        "album_name": "Victory",
+                        "artist_id": 27248803,
+                        "artist_name": "Oslo Soul Teens",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Oslo-Soul-Teens/Loved?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Oslo-Soul-Teens/Loved/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-30T13:38:28Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 14484674,
+                        "track_name": "Sanctuary",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 9719978,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13845392,
+                        "album_name": "Sanctuary",
+                        "artist_id": 6914,
+                        "artist_name": "Robin Mark",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Robin-Mark/Sanctuary?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Robin-Mark/Sanctuary/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2011-12-16T11:33:52Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34784471,
+                        "track_name": "A Thing Called Love",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14207651,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15559754,
+                        "album_name": "The Imperials Classic Hits",
+                        "artist_id": 24845958,
+                        "artist_name": "Imperials",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Imperials/A-Thing-Called-Love?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Imperials/A-Thing-Called-Love/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-13T15:42:47Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60128874,
+                        "track_name": "He Is Able",
+                        "track_name_translation_list": [],
+                        "track_rating": 24,
+                        "commontrack_id": 30383964,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17838238,
+                        "album_name": "A Christian Tribute to Steve Camp",
+                        "artist_id": 24745042,
+                        "artist_name": "The Worship Crew",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Worship-Crew/He-Is-Able?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Worship-Crew/He-Is-Able/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-11-15T03:11:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 83184963,
+                        "track_name": "Lord I Need You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 40921992,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20781682,
+                        "album_name": "Guardian Angel",
+                        "artist_id": 26854519,
+                        "artist_name": "James Heatherington",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/James-Heatherington-2/Lord-I-Need-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/James-Heatherington-2/Lord-I-Need-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-11-15T00:30:33Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 63183232,
+                        "track_name": "Lord I Need You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 32852969,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 18245120,
+                        "album_name": "Southside Worship (Live)",
+                        "artist_id": 27080036,
+                        "artist_name": "Southside Worship",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Southside-Worship/Lord-I-Need-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Southside-Worship/Lord-I-Need-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-11-14T18:57:00Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 58978624,
+                        "track_name": "I've Been Touched",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 29550078,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17692369,
+                        "album_name": "A Gospel Tribute to Jeff & Sheri Easter",
+                        "artist_id": 24745042,
+                        "artist_name": "The Worship Crew",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Worship-Crew/I-ve-Been-Touched?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Worship-Crew/I-ve-Been-Touched/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-03T22:12:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 77877319,
+                        "track_name": "Tell Me the Truth",
+                        "track_name_translation_list": [],
+                        "track_rating": 26,
+                        "commontrack_id": 43038585,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 3,
+                        "album_id": 20180233,
+                        "album_name": "Dreaming of a City",
+                        "artist_id": 27156871,
+                        "artist_name": "Sweet Symphony",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Sweet-Symphony/Tell-Me-the-Truth?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Sweet-Symphony/Tell-Me-the-Truth/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-04T18:33:56Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 62653374,
+                        "track_name": "Thy Word is a Lamp Unto My Feet",
+                        "track_name_translation_list": [],
+                        "track_rating": 5,
+                        "commontrack_id": 32461750,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 2,
+                        "album_id": 18167869,
+                        "album_name": "My Quiet Time: Hymns of Restoration and Reflection",
+                        "artist_id": 24539342,
+                        "artist_name": "Studio Players",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Studio-Players/Thy-Word-is-a-Lamp-Unto-My-Feet?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Studio-Players/Thy-Word-is-a-Lamp-Unto-My-Feet/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-12-30T15:02:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 79188163,
+                        "track_name": "Love Is War",
+                        "track_name_translation_list": [],
+                        "track_rating": 11,
+                        "commontrack_id": 43958726,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 20330811,
+                        "album_name": "You Remain",
+                        "artist_id": 28356144,
+                        "artist_name": "Christ Fellowship Worship",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Christ-Fellowship-Worship/Love-Is-War?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Christ-Fellowship-Worship/Love-Is-War/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-04-23T13:19:21Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 82052734,
+                        "track_name": "May the Peace of God (Benediction) (Live)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 45664656,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 20681642,
+                        "album_name": "The Best of Stuart Townend, Vol. 2 (Live)",
+                        "artist_id": 43839,
+                        "artist_name": "Stuart Townend",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Stuart-Townend/May-the-Peace-of-God-Benediction-Live?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Stuart-Townend/May-the-Peace-of-God-Benediction-Live/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-01T16:30:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 1841109,
+                        "track_name": "Tongues of Fire",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2987187,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10369756,
+                        "album_name": "Voice of the Wind",
+                        "artist_id": 52392,
+                        "artist_name": "Chuck Girard",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Chuck-Girard/Tongues-of-Fire?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Chuck-Girard/Tongues-of-Fire/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-05-13T11:31:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 36341029,
+                        "track_name": "All the Way My Savior Leads Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 15059556,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15665480,
+                        "album_name": "50 Contemporary Hymns You Love to Sing",
+                        "artist_id": 25020113,
+                        "artist_name": "Hymns You Love to Sing Performers",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Hymns-You-Love-to-Sing-Performers/All-the-Way-My-Savior-Leads-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Hymns-You-Love-to-Sing-Performers/All-the-Way-My-Savior-Leads-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-28T17:34:48Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34617030,
+                        "track_name": "Be Merciful, O Lord: Psalm 51",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14090174,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15548342,
+                        "album_name": "Come to Me: Songs for the Christian Journey",
+                        "artist_id": 24830441,
+                        "artist_name": "Michael Joncas",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Michael-Joncas/Be-Merciful-O-Lord-Psalm-51?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Michael-Joncas/Be-Merciful-O-Lord-Psalm-51/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-03-30T01:07:55Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60625230,
+                        "track_name": "No One Like You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 30748033,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17905549,
+                        "album_name": "His Promises",
+                        "artist_id": 26899843,
+                        "artist_name": "Boanerges Kids",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Boanerges-Kids/No-One-Like-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Boanerges-Kids/No-One-Like-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-14T18:18:38Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 75288008,
+                        "track_name": "Always Waiting There for Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 41456572,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19821595,
+                        "album_name": "Authenticity",
+                        "artist_id": 28039707,
+                        "artist_name": "Madison Cunningham",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Madison-Cunningham/Always-Waiting-There-for-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Madison-Cunningham/Always-Waiting-There-for-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-10-13T06:18:18Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34489574,
+                        "track_name": "Without You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 13966755,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15535466,
+                        "album_name": "Refusing",
+                        "artist_id": 24813332,
+                        "artist_name": "Stereotrap",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Stereotrap/Without-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Stereotrap/Without-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-12-14T00:23:52Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 102795035,
+                        "track_name": "King of Kings",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 43506189,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 22337894,
+                        "album_name": "Enter His Gates",
+                        "artist_id": 24487962,
+                        "artist_name": "Marty J. Nystrom",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Marty-J-Nystrom/King-of-Kings?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Marty-J-Nystrom/King-of-Kings/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-05-22T15:23:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 52081346,
+                        "track_name": "It's Still Love (reNRGized)",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 24677097,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16960836,
+                        "album_name": "Renrgized",
+                        "artist_id": 285047,
+                        "artist_name": "PureNRG",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/PureNRG/It-s-Still-Love-reNRGized?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/PureNRG/It-s-Still-Love-reNRGized/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-01-16T03:29:37Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 1094,
+                                        "music_genre_parent_id": 22,
+                                        "music_genre_name": "CCM",
+                                        "music_genre_name_extended": "Christian & Gospel / CCM",
+                                        "music_genre_vanity": "Christian-Gospel-CCM"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 51191527,
+                        "track_name": "Grandma's House for Christmas",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 24010667,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16867635,
+                        "album_name": "A Little Christmas",
+                        "artist_id": 14744,
+                        "artist_name": "Legacy Five",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Legacy-Five/Grandma-s-House-for-Christmas?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Legacy-Five/Grandma-s-House-for-Christmas/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-07-30T21:06:18Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 69965163,
+                        "track_name": "He Took My Sins Away",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 38009509,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19228746,
+                        "album_name": "Standin'",
+                        "artist_id": 27585730,
+                        "artist_name": "Patrick Lundy & The Ministers of Music",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Patrick-Lundy-The-Ministers-of-Music/He-Took-My-Sins-Away?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Patrick-Lundy-The-Ministers-of-Music/He-Took-My-Sins-Away/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-07-30T06:44:14Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 69160387,
+                        "track_name": "I Just Want to Tell You",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 37292289,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19109925,
+                        "album_name": "We'll Meet Again",
+                        "artist_id": 3647,
+                        "artist_name": "The Dixie Hummingbirds",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/The-Dixie-Hummingbirds/I-Just-Want-to-Tell-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/The-Dixie-Hummingbirds/I-Just-Want-to-Tell-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-06-29T14:27:27Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34366204,
+                        "track_name": "Holding On to Me",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 13888167,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15524114,
+                        "album_name": "God and a Girl",
+                        "artist_id": 24792270,
+                        "artist_name": "Joy Whitlock",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Joy-Whitlock/Holding-On-to-Me?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Joy-Whitlock/Holding-On-to-Me/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-11-12T15:40:12Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 34509428,
+                        "track_name": "Smile",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 14046542,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15538260,
+                        "album_name": "Reality",
+                        "artist_id": 24816634,
+                        "artist_name": "Bryan Pound",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Bryan-Pound/Smile?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Bryan-Pound/Smile/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2013-11-12T17:25:09Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 47402257,
+                        "track_name": "Trading My Sorrows",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 16329087,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 16473454,
+                        "album_name": "16 Great Praise & Worship Classics, Vol. 5",
+                        "artist_id": 24867903,
+                        "artist_name": "Daywind Studio Musicians",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Daywind-Studio-Musicians/Trading-My-Sorrows?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Daywind-Studio-Musicians/Trading-My-Sorrows/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-08-08T15:46:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 70370612,
+                        "track_name": "I Give You All the Honour",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 38345452,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 19293143,
+                        "album_name": "I Believe in You",
+                        "artist_id": 25361487,
+                        "artist_name": "Marilla Ness",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Marilla-Ness/I-Give-You-All-the-Honour?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Marilla-Ness/I-Give-You-All-the-Honour/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-03-11T21:56:59Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 13212404,
+                        "track_name": "There Is a Mountain",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 9228256,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 13212525,
+                        "album_name": "Not by Sight",
+                        "artist_id": 265347,
+                        "artist_name": "Faith First",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Faith-First/There-is-a-mountain?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Faith-First/There-is-a-mountain/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2015-06-04T23:39:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 60268753,
+                        "track_name": "We Desire To Be Wise",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 30484135,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 17856909,
+                        "album_name": "Come and Sit A While",
+                        "artist_id": 26874479,
+                        "artist_name": "Sascha & Ella Bramao",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Sascha-Ella-Bramao/We-Desire-To-Be-Wise?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Sascha-Ella-Bramao/We-Desire-To-Be-Wise/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-07-19T10:18:19Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 113469357,
+                        "track_name": "Here for You",
+                        "track_name_translation_list": [],
+                        "track_rating": 24,
+                        "commontrack_id": 62487223,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 1,
+                        "has_richsync": 0,
+                        "num_favourite": 1,
+                        "album_id": 23832613,
+                        "album_name": "A New Era",
+                        "artist_id": 31868451,
+                        "artist_name": "Awakening Worship",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Awakening-Worship/Here-for-You?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Awakening-Worship/Here-for-You/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-07-17T19:18:35Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 40735771,
+                        "track_name": "Go Tell John",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 17306827,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 15944164,
+                        "album_name": "Lancaster Long Play",
+                        "artist_id": 128320,
+                        "artist_name": "Keith Lancaster",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Keith-Lancaster/Go-Tell-John?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Keith-Lancaster/Go-Tell-John/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-07-31T14:25:49Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2731190,
+                        "track_name": "What Have You Done?",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2960719,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10441713,
+                        "album_name": "Genesis & Job",
+                        "artist_id": 51117,
+                        "artist_name": "Don Francisco",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Don-Francisco/What-Have-You-Done?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Francisco/What-Have-You-Done/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-02-12T23:42:12Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "track": {
+                        "track_id": 2731193,
+                        "track_name": "And Noah Found Grace",
+                        "track_name_translation_list": [],
+                        "track_rating": 1,
+                        "commontrack_id": 2960566,
+                        "instrumental": 0,
+                        "explicit": 0,
+                        "has_lyrics": 1,
+                        "has_subtitles": 0,
+                        "has_richsync": 0,
+                        "num_favourite": 0,
+                        "album_id": 10441713,
+                        "album_name": "Genesis & Job",
+                        "artist_id": 51117,
+                        "artist_name": "Don Francisco",
+                        "track_share_url": "https://www.musixmatch.com/lyrics/Don-Francisco/And-Noah-Found-Grace?utm_source=application&utm_campaign=api&utm_medium=",
+                        "track_edit_url": "https://www.musixmatch.com/lyrics/Don-Francisco/And-Noah-Found-Grace/edit?utm_source=application&utm_campaign=api&utm_medium=",
+                        "restricted": 0,
+                        "updated_time": "2016-02-12T23:47:03Z",
+                        "primary_genres": {
+                            "music_genre_list": [
+                                {
+                                    "music_genre": {
+                                        "music_genre_id": 22,
+                                        "music_genre_parent_id": 34,
+                                        "music_genre_name": "Christian & Gospel",
+                                        "music_genre_name_extended": "Christian & Gospel",
+                                        "music_genre_vanity": "Christian-Gospel"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
