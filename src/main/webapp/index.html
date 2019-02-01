@@ -24,6 +24,7 @@
             function restApi(path) {
                 var url = window.location.href.replace(window.location.search, '');
                 if (!url.endsWith('/')) {
+                    url = url.replace('?', '');
                     url = url.replace('/index.html', '');
                     url = url + '/';
                 }
@@ -35,7 +36,7 @@
             }
             function randomTrack() {
                 var trackId = getTrackId();
-                if (trackId == null || isNaN(trackId)) {
+                if (trackId == null || !trackId.match(/[0-9]+/)) {
                     url = restApi('random')
                     $.get(url, function(data, status) {
                         window.location.search = "?trackId=" + data;
@@ -56,8 +57,8 @@
                 } else {
                     var url = restApi('guess/' + trackId + '?christianRock=' + guess);
                     $.post(url, function(data, status) {
-                        $('#genre').html(data.genre == 1 ? 'Christian Rock' : 'Not');
-                        $('#result').html(data.genre == guess ? 'Correct' : 'Wrong');
+                        $('#genre').html(data.christianRock ? 'Christian Rock' : 'Not');
+                        $('#result').html((data.christianRock ? 1 : 0) == guess ? 'Correct' : 'Wrong');
                         $('#correct').html((data.correct / data.total) * 100);
                         $('#choice').hide();
                         $('#guessed').show();
@@ -65,7 +66,7 @@
                 }
             }
             function reloadPage() {
-                window.location.search = '?trackId=';
+                window.location.search = '';
             }
         </script>
     </head>
@@ -93,10 +94,10 @@
                 </div>
                 <div id="guessed" class="guessed">
                     <ul>
-                        <li><b id="result"></b></li>
-                        <li><b>Track:</b> <i id="track"></i></li>
+                        <li><b id="result"></b> - <i id="genre"></i></li>
+                        <li><b>Title:</b> <i id="title"></i></li>
                         <li><b>Artist:</b>	<i id="artist"></i></li>
-                        <li><b id="genre"></b> <i id="correct"></i>% Guessed Correctly</li>
+                        <li><b id="correct"></b><b>%</b> Guessed Correctly</li>
                     </ul>
                     <button onclick="reloadPage();">Reload Page</button>
                 </div>

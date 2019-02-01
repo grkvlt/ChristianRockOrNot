@@ -28,7 +28,7 @@ h1 {
     border: solid 2px black;
     border-radius: 20px;
     background: white;
-    width: 500px;
+    width: 600px;
 }
 .choice, .guessed {
     font-size: 18px;
@@ -40,11 +40,8 @@ h1 {
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.choice {
-    visibility: visible;
-}
 .guessed {
-    visibility: hidden;
+    display: none;
 }
 .sidebar {
     width: 160px;
