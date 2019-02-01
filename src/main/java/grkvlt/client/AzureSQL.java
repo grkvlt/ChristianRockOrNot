@@ -32,6 +32,11 @@ public class AzureSQL {
     private Connection connection;
 
     public AzureSQL() {
+        try {
+            Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
         String user = System.getProperty("azureSQLUser");
         String password = System.getProperty("azureSQLPassword");
         if (!Strings.isNullOrEmpty(user) && !Strings.isNullOrEmpty(password)) {
@@ -59,18 +64,22 @@ public class AzureSQL {
             PreparedStatement select = connection.prepareStatement("SELECT Total, Correct, Genre FROM ChristianRockOrNot WHERE TrackId = ?");
             select.setInt(1, trackId);
             ResultSet results = select.executeQuery();
-            Integer total = results.getInt("Total");
-            Integer correct = results.getInt("Correct");
-            Boolean christianRock = (results.getInt("Genre") == Resources.CHRISTIAN_ROCK);
-            results.close();
-            select.close();
+            if (results.next()) {
+                Integer total = results.getInt("Total");
+                Integer correct = results.getInt("Correct");
+                Boolean christianRock = (results.getInt("Genre") == Resources.CHRISTIAN_ROCK);
+                results.close();
+                select.close();
 
-            Guesses guesses = new Guesses();
-            guesses.setTrackId(trackId);
-            guesses.setTotal(total);
-            guesses.setCorrect(correct);
-            guesses.setChristianRock(christianRock);
-            return guesses;
+                Guesses guesses = new Guesses();
+                guesses.setTrackId(trackId);
+                guesses.setTotal(total);
+                guesses.setCorrect(correct);
+                guesses.setChristianRock(christianRock);
+                return guesses;
+            } else {
+                throw new RuntimeException("Database error");
+            }
         } catch (SQLException sqle) {
             throw new RuntimeException(sqle);
         }
@@ -88,24 +97,28 @@ public class AzureSQL {
             PreparedStatement select = connection.prepareStatement("SELECT COUNT(TrackId) AS Rows FROM ChristianRockOrNot WHERE TrackId = ?");
             select.setInt(1, trackId);
             ResultSet results = select.executeQuery();
-            int rows = results.getInt("Rows");
-            results.close();
-            select.close();
+            if (results.next()) {
+                int rows = results.getInt("Rows");
+                results.close();
+                select.close();
 
-            if (rows == 0) {
-                PreparedStatement insert = connection.prepareStatement("INSERT INTO ChristianRockOrNot (TrackId, Total, Correct, Genre) VALUES (?, 1, ?, ?)");
-                insert.setInt(1, trackId);
-                insert.setInt(2, christianRock == genre ? 1 : 0);
-                insert.setInt(3, genre);
-                insert.executeUpdate();
-                insert.close();
+                if (rows == 0) {
+                    PreparedStatement insert = connection.prepareStatement("INSERT INTO ChristianRockOrNot (TrackId, Total, Correct, Genre) VALUES (?, 1, ?, ?)");
+                    insert.setInt(1, trackId);
+                    insert.setInt(2, christianRock == genre ? 1 : 0);
+                    insert.setInt(3, genre);
+                    insert.executeUpdate();
+                    insert.close();
+                } else {
+                    PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, Correct = Correct + ?, Genre = ? WHERE TrackId = ?");
+                    update.setInt(1, christianRock == genre ? 1 : 0);
+                    update.setInt(2, genre);
+                    update.setInt(3, trackId);
+                    update.executeUpdate();
+                    update.close();
+                }
             } else {
-                PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, Correct = Correct + ?, Genre = ? WHERE TrackId = ?");
-                update.setInt(1, christianRock == genre ? 1 : 0);
-                update.setInt(2, genre);
-                update.setInt(3, trackId);
-                update.executeUpdate();
-                update.close();
+                throw new RuntimeException("Database error");
             }
         } catch (SQLException sqle) {
             throw new RuntimeException(sqle);
