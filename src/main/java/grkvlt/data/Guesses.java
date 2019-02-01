@@ -30,7 +30,10 @@ public class Guesses {
     private Integer total;
 
     @JsonProperty
-    private Integer christianRock;
+    private Integer correct;
+
+    @JsonProperty
+    private boolean christianRock;
 
     @JsonGetter
     public int getTrackId() {
@@ -43,7 +46,12 @@ public class Guesses {
     }
 
     @JsonGetter
-    public Integer getChristianRock() {
+    public Integer getCorrect() {
+        return correct;
+    }
+
+    @JsonGetter
+    public boolean isChristianRock() {
         return christianRock;
     }
 
@@ -58,7 +66,12 @@ public class Guesses {
     }
 
     @JsonSetter
-    public void setChristianRock(Integer christianRock) {
+    public void setCorrect(Integer correct) {
+        this.correct = correct;
+    }
+
+    @JsonSetter
+    public void setChristianRock(boolean christianRock) {
         this.christianRock = christianRock;
     }
 }

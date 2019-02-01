@@ -15,7 +15,7 @@
  */
 package grkvlt.client;
 
-import com.google.common.base.Throwables;
+import grkvlt.Resources;
 import grkvlt.data.Guesses;
 
 import java.sql.Connection;
@@ -51,19 +51,21 @@ public class AzureSQL {
      * @param trackId the track to retrieve guesses for
      * @return a {@link Guesses} object with the counts
      */
-    public Guesses getGuesses(Integer trackId) {
+    public Guesses getGuesses(int trackId) {
         try {
-            PreparedStatement select = connection.prepareStatement("SELECT Total, ChristianRock FROM ChristianRockOrNot WHERE TrackId = ?");
+            PreparedStatement select = connection.prepareStatement("SELECT Total, Correct, Genre FROM ChristianRockOrNot WHERE TrackId = ?");
             select.setInt(1, trackId);
             ResultSet results = select.executeQuery();
             Integer total = results.getInt("Total");
-            Integer christianRock = results.getInt("ChristianRock");
+            Integer correct = results.getInt("Correct");
+            Boolean christianRock = (results.getInt("Genre") == Resources.CHRISTIAN_ROCK);
             results.close();
             select.close();
 
             Guesses guesses = new Guesses();
             guesses.setTrackId(trackId);
             guesses.setTotal(total);
+            guesses.setCorrect(correct);
             guesses.setChristianRock(christianRock);
             return guesses;
         } catch (SQLException sqle) {
@@ -76,8 +78,9 @@ public class AzureSQL {
      *
      * @param trackId the track to make the guess for
      * @param christianRock one if the guess is christian rock, otherwise zero
+     * @param genre one if the genre is christian rock, otherwise zero
      */
-    public void makeGuess(Integer trackId, Integer christianRock) {
+    public void makeGuess(int trackId, int christianRock, int genre) {
         try {
             PreparedStatement select = connection.prepareStatement("SELECT COUNT(TrackId) AS Rows FROM ChristianRockOrNot WHERE TrackId = ?");
             select.setInt(1, trackId);
@@ -85,16 +88,19 @@ public class AzureSQL {
             int rows = results.getInt("Rows");
             results.close();
             select.close();
+
             if (rows == 0) {
-                PreparedStatement insert = connection.prepareStatement("INSERT INTO ChristianRockOrNot (TrackId, Total, ChristianRock) VALUES (?, 1, ?)");
+                PreparedStatement insert = connection.prepareStatement("INSERT INTO ChristianRockOrNot (TrackId, Total, Correct, Genre) VALUES (?, 1, ?, ?)");
                 insert.setInt(1, trackId);
-                insert.setInt(2, christianRock);
+                insert.setInt(2, christianRock == genre ? 1 : 0);
+                insert.setInt(3, genre);
                 insert.executeUpdate();
                 insert.close();
             } else {
-                PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, ChristianRock = ChristianRock + ? WHERE TrackId = ?");
-                update.setInt(1, christianRock);
-                update.setInt(2, trackId);
+                PreparedStatement update = connection.prepareStatement("UPDATE ChristianRockOrNot SET Total = Total + 1, Correct = Correct + ?, Genre = ? WHERE TrackId = ?");
+                update.setInt(1, christianRock == genre ? 1 : 0);
+                update.setInt(2, genre);
+                update.setInt(3, trackId);
                 update.executeUpdate();
                 update.close();
             }

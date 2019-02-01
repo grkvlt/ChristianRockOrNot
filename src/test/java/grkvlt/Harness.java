@@ -27,12 +27,18 @@ public class Harness {
     }
 
     private RockLyrics lyrics() {
-        return musixMatch.getLyrics();
+        int trackId = musixMatch.getRandom();
+        return musixMatch.getLyrics(trackId);
+    }
+
+    private boolean isChristianRock(int trackId) {
+        return musixMatch.isChristianRock(trackId);
     }
 
     public static void main(String...argv) throws Exception {
         Harness harness = new Harness();
         RockLyrics lyrics = harness.lyrics();
+        boolean christianRock = harness.isChristianRock(lyrics.getTrackId());
 
         System.out.println(lyrics.getLyrics());
         System.out.println();
@@ -40,7 +46,7 @@ public class Harness {
         System.out.println();
         System.out.printf("Track:\t%s\n", lyrics.getTitle());
         System.out.printf("Artist:\t%s\n", lyrics.getArtist());
-        System.out.println(lyrics.isChristianRock() ? "Christian Rock" : "Not");
+        System.out.println(christianRock ? "Christian Rock" : "Not");
         System.out.println();
     }
 }

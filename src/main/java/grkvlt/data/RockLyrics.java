@@ -30,9 +30,6 @@ public class RockLyrics {
     private int trackId;
 
     @JsonProperty
-    private boolean christianRock;
-
-    @JsonProperty
     private String title;
 
     @JsonProperty
@@ -46,11 +43,6 @@ public class RockLyrics {
     @JsonGetter
     public int getTrackId() {
         return trackId;
-    }
-
-    @JsonGetter
-    public boolean isChristianRock() {
-        return christianRock;
     }
 
     @JsonGetter
@@ -71,11 +63,6 @@ public class RockLyrics {
     @JsonSetter
     public void setTrackId(int trackId) {
         this.trackId = trackId;
-    }
-
-    @JsonSetter
-    public void setChristianRock(boolean christianRock) {
-        this.christianRock = christianRock;
     }
 
     @JsonSetter

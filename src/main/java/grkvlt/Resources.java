@@ -32,6 +32,9 @@ import javax.ws.rs.core.MediaType;
 @Produces(MediaType.APPLICATION_JSON)
 public class Resources {
 
+    public static final Integer NOT = 0;
+    public static final Integer CHRISTIAN_ROCK = 1;
+
     private MusixMatch musixMatch;
     private AzureSQL azureSQL;
 
@@ -41,20 +44,34 @@ public class Resources {
     }
 
     /**
-     * Downloads a random track from either Christian Rock or Rock genres, and returns the lyrics after performing a
-     * search and replace to change religious words to more secular versions found in normal Rock tracks.
+     * Downloads a random track from either Christian Rock or Rock genres, and returns the {@literal trackId}.
      *
+     * @return the track identifier from the lyrics service
+     */
+    @Path("random")
+    @GET
+    public Integer getRandom() {
+        return musixMatch.getRandom();
+    }
+
+    /**
+     * Returns the lyrics of a paeticular track after performing a search and replace to change religious words
+     * to more secular versions found in normal Rock tracks.
+     *
+     * @param trackId the track identifier from the lyrics service
      * @return the {@link RockLyrics lyrics} data for a track
      */
-    @Path("lyrics")
+    @Path("lyrics/{trackId}")
     @GET
-    public RockLyrics lyrics() {
-        return musixMatch.getLyrics();
+    public RockLyrics lyrics(@PathParam("trackId") Integer trackId) {
+        return musixMatch.getLyrics(trackId);
     }
 
     /**
      * Submits a guess from the user as to whether a track is from the Christian Rock genre or not, and updates the
-     * database of guesses. Returns the
+     * database of guesses. Returns the total number of guesses, the number correct and whether the track genre was
+     * Christian Rock or not.
+     *
      * @param trackId the track identifier from the lyrics service
      * @param christianRock set to one if the guess is Christian Rock, zero otherwise
      * @return the {@link Guesses guess} data for the track
@@ -62,7 +79,8 @@ public class Resources {
     @Path("guess/{trackId}")
     @POST
     public Guesses guess(@PathParam("trackId") Integer trackId, @QueryParam("christianRock") Integer christianRock) {
-        azureSQL.makeGuess(trackId, christianRock);
+        int genre = musixMatch.isChristianRock(trackId) ? CHRISTIAN_ROCK : NOT;
+        azureSQL.makeGuess(trackId, christianRock, genre);
         return azureSQL.getGuesses(trackId);
     }
 }
