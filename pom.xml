@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!--
-    Copyright 2019 by Andrew Kennedy.
+    Copyright 2019 by Andrew Donald Kennedy.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -65,13 +65,10 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <jquery.version>1.7.2</jquery.version>
         <guava.version>23.0</guava.version>
         <resteasy.version>3.6.2.Final</resteasy.version>
         <httpclient.version>3.1</httpclient.version>
         <cxf.version>3.0.3</cxf.version>
-
-        <jquery.js.src>http://ajax.googleapis.com/ajax/libs/jquery/${jquery.version}/jquery.min.js</jquery.js.src>
     </properties>
 
     <dependencies>

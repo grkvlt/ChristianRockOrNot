@@ -1,0 +1,102 @@
+<!--
+    Copyright 2019 by Andrew Donald Kennedy.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at:
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+<html>
+    <head>
+        <title>Christian rock or not web application</title>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="christianrock.css"/>
+        <script lang="text/javascript">
+            function restApi(path) {
+                var url = window.location.href.replace(window.location.search, '');
+                if (!url.endsWith('/')) {
+                    url = url.replace('/index.html', '');
+                    url = url + '/';
+                }
+                return url + 'api/' + path;
+            }
+            function randomTrack() {
+                const params = new URLSearchParams(window.location.search);
+                var trackId = params.get('trackId');
+                if (isNaN(trackId)) {
+                    // get random track id and redirect
+                    url = restApi('random')
+                    $.get(url, function(data, status) {
+                        console.log('random ${data}');
+                        window.location.search = "?trackId=" + data;
+                    });
+                } else {
+                    console.log('track id is ${trackId}');
+                    // load lyrics
+                    var url = restApi('lyrics/' + trackId);
+                    $.getJSON(url, function(data, status) {
+                        console.log('lyrics ${data}');
+                        $('#lyrics').text = data.lyrics;
+                    })
+                }
+            }
+        </script>
+    </head>
+    <body onload="randomTrack();">
+        <div>
+            <div class="sidebar">
+                <ins class="adsbygoogle"
+                        style="display:inline-block;width:160px;height:600px"
+                        data-ad-client="ca-pub-4433632599590176"
+                        data-ad-slot="1780870201"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+            <div class="content">
+                <h1>Christian Rock or Not?</h1>
+
+                <pre id="lyrics" class="lyrics">
+                    i want you, i'll get you in the end.
+                    i want you, i'll get you in the end.
+                    i want you, i want you baby.
+                    yes i do, yes i do.
+        
+                    ahhh hear me, i want you by my side.
+                    yeah baby, i need you by my side.
+                    baby yeah, i need your love so bad.
+                </pre>
+        
+                <div class="choice">
+                    <button>Christian Rock</button> or
+                    <button>Not</button> ?
+                </div>
+                <div class="guessed">
+                    <ul>
+                        <li><b>Track:</b> You Led Me</li>
+                        <li><b>Artist:</b>	BarlowGirl</li>
+                        <li><b>Christian Rock</b> 69% Guessed Correctly</li>
+                    </ul>
+                    <button>Reload</button>
+                </div>
+            </div>
+            <div class="footer">
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fa fa-envelope"></a>
+                <a href="#" class="fa fa-share-alt"></a>
+            </div>
+        </div>
+ 
+    </body>
+</html>
