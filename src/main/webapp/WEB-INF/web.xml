@@ -43,13 +43,13 @@
         <init-param>
             <param-name>jaxrs.serviceClasses</param-name>
             <param-value>
-                grkvlt.Resources,
+                grkvlt.Resources
             </param-value>
         </init-param>
         <init-param>
             <param-name>jaxrs.providers</param-name>
             <param-value>
-                com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider,
+                com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider
             </param-value>
         </init-param>
     </servlet>

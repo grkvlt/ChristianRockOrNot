@@ -32,20 +32,15 @@
             function randomTrack() {
                 const params = new URLSearchParams(window.location.search);
                 var trackId = params.get('trackId');
-                if (isNaN(trackId)) {
-                    // get random track id and redirect
+                if (trackId == null || isNaN(trackId)) {
                     url = restApi('random')
                     $.get(url, function(data, status) {
-                        console.log('random ${data}');
                         window.location.search = "?trackId=" + data;
                     });
                 } else {
-                    console.log('track id is ${trackId}');
-                    // load lyrics
                     var url = restApi('lyrics/' + trackId);
                     $.getJSON(url, function(data, status) {
-                        console.log('lyrics ${data}');
-                        $('#lyrics').text = data.lyrics;
+                        $('#lyrics').html(data.lyrics);
                     })
                 }
             }
@@ -66,14 +61,7 @@
                 <h1>Christian Rock or Not?</h1>
 
                 <pre id="lyrics" class="lyrics">
-                    i want you, i'll get you in the end.
-                    i want you, i'll get you in the end.
-                    i want you, i want you baby.
-                    yes i do, yes i do.
-        
-                    ahhh hear me, i want you by my side.
-                    yeah baby, i need you by my side.
-                    baby yeah, i need your love so bad.
+                    ...
                 </pre>
         
                 <div class="choice">
@@ -90,9 +78,9 @@
                 </div>
             </div>
             <div class="footer">
-                <a href="#" class="fa fa-facebook"></a>
-                <a href="#" class="fa fa-twitter"></a>
-                <a href="#" class="fa fa-instagram"></a>
+                <a href="#" class="fab fa-facebook"></a>
+                <a href="#" class="fab fa-twitter"></a>
+                <a href="#" class="fab fa-instagram"></a>
                 <a href="#" class="fa fa-envelope"></a>
                 <a href="#" class="fa fa-share-alt"></a>
             </div>

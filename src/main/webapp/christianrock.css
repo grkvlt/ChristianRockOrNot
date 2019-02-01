@@ -58,7 +58,7 @@ h1 {
     padding-left: 150px;
     text-align: left;
 }
-.fa {
+.fa, .fab {
     padding: 10px;
     font-size: 25px;
     width: 35px;

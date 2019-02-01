@@ -15,6 +15,7 @@
  */
 package grkvlt.client;
 
+import com.google.common.base.Strings;
 import grkvlt.Resources;
 import grkvlt.data.Guesses;
 
@@ -33,7 +34,9 @@ public class AzureSQL {
     public AzureSQL() {
         String user = System.getProperty("azureSQLUser");
         String password = System.getProperty("azureSQLPassword");
-        connection = connect(user, password);
+        if (!Strings.isNullOrEmpty(user) && !Strings.isNullOrEmpty(password)) {
+            connection = connect(user, password);
+        }
     }
 
     private Connection connect(String user, String password) {
