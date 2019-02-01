@@ -26,8 +26,10 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.POST;
 import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
+import javax.ws.rs.core.MediaType;
 
 @Path("/")
+@Produces(MediaType.APPLICATION_JSON)
 public class Resources {
 
     private MusixMatch musixMatch;
@@ -38,15 +40,26 @@ public class Resources {
         azureSQL = new AzureSQL();
     }
 
+    /**
+     * Downloads a random track from either Christian Rock or Rock genres, and returns the lyrics after performing a
+     * search and replace to change religious words to more secular versions found in normal Rock tracks.
+     *
+     * @return the {@link RockLyrics lyrics} data for a track
+     */
     @Path("lyrics")
-    @Produces("application/json")
     @GET
-    public RockLyrics lyrics() throws Exception {
+    public RockLyrics lyrics() {
         return musixMatch.getLyrics();
     }
 
+    /**
+     * Submits a guess from the user as to whether a track is from the Christian Rock genre or not, and updates the
+     * database of guesses. Returns the
+     * @param trackId the track identifier from the lyrics service
+     * @param christianRock set to one if the guess is Christian Rock, zero otherwise
+     * @return the {@link Guesses guess} data for the track
+     */
     @Path("guess/{trackId}")
-    @Produces("application/json")
     @POST
     public Guesses guess(@PathParam("trackId") Integer trackId, @QueryParam("christianRock") Integer christianRock) {
         azureSQL.makeGuess(trackId, christianRock);

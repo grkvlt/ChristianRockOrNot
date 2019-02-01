@@ -1,0 +1,47 @@
+body {
+    margin-left: 25px;
+    background: lightyellow;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+.lyrics {
+    padding: 10px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid 2px black;
+    border-radius: 20px;
+    background: white;
+    width: 500px;
+}
+.choice {
+    font-size: 18px;
+}
+.choice button {
+    border-radius: 5px;
+    border: solid 2px;
+    background: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidebar {
+    width: 150px;
+    float: left;
+}
+.content {
+    float: left;
+}
+.footer {
+    clear: both;
+    padding-left: 150px;
+    text-align: left;
+}
+.fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+  }
