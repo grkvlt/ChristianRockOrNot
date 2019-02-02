@@ -83,7 +83,7 @@ public class MusixMatch {
         RockLyrics lyrics = null;
         do {
             try {
-                List<Track> tracks = searchTracks(christian ? 1098 : 21, christian ? "jesus" : "baby");
+                List<Track> tracks = searchTracks(christian ? 1098 : 1134, christian ? "jesus" : "baby");
                 if (tracks.isEmpty()) continue;
 
                 TrackData track = tracks.get(RAND.nextInt(tracks.size())).getTrack();
@@ -116,10 +116,10 @@ public class MusixMatch {
 
     private RockLyrics getLyrics(TrackData track) throws MusixMatchException {
         String lyrics = Strings.nullToEmpty(getTrackLyrics(track.getTrackId()).getLyricsBody());
-
         lyrics = Splitter.on('\n').splitToList(lyrics).stream()
                 .filter((s) -> !(s.equals("...") || s.startsWith("***") || s.matches("\\([0-9]*\\)")))
                 .collect(Collectors.joining("\n"));
+        lyrics = Splitter.on("\n\n").splitToList(lyrics).get(0);
         lyrics = lyrics.toLowerCase(Locale.ENGLISH);
 
         if (isChristianRock(track)) {
@@ -189,7 +189,7 @@ public class MusixMatch {
     private List<Track> searchTracks(int genre, String lyricsQuery) throws MusixMatchException {
         Map<String, Object> params = Maps.newHashMap();
         params.put("apikey", apiKey);
-        params.put("page", RAND.nextInt(10) + 1);
+        params.put("page", RAND.nextInt(20) + 1);
         params.put("page_size", 100);
         params.put("f_music_genre_id", genre);
         params.put("f_has_lyrics", "1");

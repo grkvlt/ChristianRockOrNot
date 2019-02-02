@@ -119,6 +119,19 @@
             <artifactId>commons-httpclient</artifactId>
             <version>${httpclient.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.tuckey</groupId>
+            <artifactId>urlrewritefilter</artifactId>
+            <version>4.0.3</version>
+        </dependency>
+
+        <!-- Provided by Tomcat 8 runtime -->
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-catalina</artifactId>
+            <version>8.0.33</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>

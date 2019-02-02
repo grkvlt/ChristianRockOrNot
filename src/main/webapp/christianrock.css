@@ -17,21 +17,34 @@ body {
     margin-left: 25px;
     background: lightyellow;
 }
+* {
+    font-size: 18px;
+}
 h1 {
     font-size: 50px;
     font-weight: bolder;
 }
 .lyrics {
     padding: 10px;
-    font-size: 18px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border: solid 2px black;
     border-radius: 20px;
     background: white;
     width: 600px;
 }
-.choice, .guessed {
-    font-size: 18px;
+p {
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+}
+.error {
+    font-size: 25px;
+}
+a.link:hover, a.link:visited, a.link:link {
+    color: #000;
+    background: lightgray;
+    text-decoration: none;
+    font-style: italic;
 }
 .choice button, .guessed button {
     border-radius: 5px;
@@ -50,9 +63,8 @@ h1 {
 .content {
     float: left;
 }
-.footer {
+.footer, .about {
     clear: both;
-    padding-left: 150px;
     text-align: left;
 }
 .fa, .fab {

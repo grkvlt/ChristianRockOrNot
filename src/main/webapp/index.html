@@ -15,8 +15,8 @@
  -->
 <html>
     <head>
-        <title>Christian rock or not web application</title>
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <title>Christian Rock Or Not</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="christianrock.css"/>
@@ -69,10 +69,18 @@
                 window.location.search = '';
             }
         </script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-4433632599590176",
+                  enable_page_level_ads: true
+             });
+        </script>
     </head>
     <body onload="randomTrack();">
         <div>
             <div class="sidebar">
+                <!--
                 <ins class="adsbygoogle"
                         style="display:inline-block;width:160px;height:600px"
                         data-ad-client="ca-pub-4433632599590176"
@@ -80,14 +88,13 @@
                 <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
+                -->
             </div>
             <div class="content">
                 <h1>Christian Rock or Not?</h1>
-
                 <pre id="lyrics" class="lyrics">
                     ...
                 </pre>
-        
                 <div id="choice" class="choice">
                     <button onclick="makeGuess(1);">Christian Rock</button> or
                     <button onclick="makeGuess(0);">Not</button> ?
@@ -109,7 +116,13 @@
                 <a href="#" class="fa fa-envelope"></a>
                 <a href="#" class="fa fa-share-alt"></a>
             </div>
+            <div class="about">
+                Copyright 2019 by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> /
+                Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" class="link">Apache Software License, Version 2.0</a>
+                <br/>
+                Code available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a> /
+                <a href="about.html" class="link">About this site</a>
+            </div>
         </div>
- 
     </body>
 </html>
