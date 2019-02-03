@@ -15,8 +15,14 @@
  -->
 <html>
     <head>
-        <title>Christian Rock Or Not</title>
+        <title>ChristianRockOrNot</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:url"           content="http://www.christianrockornot.info/" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="ChristianRockOrNot" />
+        <meta property="og:description"   content="Is It Christian Rock Or Not?" />
+        <meta property="og:image"         content="http://www.christianrockornot.info/icon.png" />
+        <link rel="icon" href="icon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="christianrock.css"/>
@@ -48,6 +54,7 @@
                         $('#artist').html(data.artist);
                         $('#title').html(data.title);
                     });
+                    $('.fb-send').attt('data-href', window.location.href);
                 }
             }
             function makeGuess(guess) {
@@ -91,7 +98,7 @@
                 -->
             </div>
             <div class="content">
-                <h1>Christian Rock or Not?</h1>
+                <h1>Is It Christian Rock or Not?</h1>
                 <pre id="lyrics" class="lyrics">
                     ...
                 </pre>
@@ -110,10 +117,17 @@
                 </div>
             </div>
             <div class="footer">
-                <a href="#" class="fab fa-facebook"></a>
-                <a href="#" class="fab fa-twitter"></a>
-                <a href="#" class="fab fa-instagram"></a>
-                <a href="#" class="fa fa-envelope"></a>
+                <div id="fb-root"></div>
+                <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+                <div class="fb-send fab fa-facebook" data-href="http://www.christianrockornot.info/" data-layout="button_count"></div>
+                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button fab fa-twitter" data-text="What do you think? Is it #ChristianRockOrNot?"
+                        data-via="grkvlt" data-related="" data-lang="en" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 <a href="#" class="fa fa-share-alt"></a>
             </div>
             <div class="about">
