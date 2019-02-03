@@ -18,40 +18,58 @@ body {
     background: lightyellow;
 }
 * {
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 125%;
 }
 h1 {
     font-size: 50px;
-    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .lyrics {
     padding: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
     border: solid 2px black;
     border-radius: 20px;
     background: white;
-    width: 600px;
+    width: 800px;
 }
 p {
     padding: 10px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    width: 600px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 800px;
 }
-.error {
-    font-size: 25px;
+code {
+    font-size: 14px;
+    font-family: Consolas, Inconsolata, Monaco, 'Courier New', Courier, monospace;
 }
-a.link:hover, a.link:visited, a.link:link {
+a:hover, a:visited, a:link, a:active, a {
     color: #000;
-    background: lightgray;
     text-decoration: none;
-    font-style: italic;
 }
-.choice button, .guessed button {
+a.link:hover, a.link:visited, a.link:link, a.link:active {
+    background: #eef;
+    border: 1px solid #eef;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+a.link:hover {
+    border: 1px solid black;
+}
+.error, .error a {
+    font-size: 25px;
+    font-weight: bolder;
+}
+.choice button, .guessed button, .back button {
     border-radius: 5px;
     border: solid 2px;
     background: white;
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button:hover {
+    cursor: pointer;
+    background: #eef;
 }
 .guessed {
     display: none;

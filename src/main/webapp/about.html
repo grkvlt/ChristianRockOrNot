@@ -17,45 +17,50 @@
     <head>
         <title>AboutChristianRockOrNot</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta property="og:url"           content="http://christianrockornot.info/" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="AboutChristianRockOrNot" />
+        <meta property="og:description"   content="About Christian Rock Or Not" />
+        <meta property="og:image"         content="http://www.christianrockornot.info/icon.png" />
+        <link rel="icon" href="icon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="christianrock.css"/>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-4433632599590176",
+                  enable_page_level_ads: true
+             });
+        </script>
     </head>
     <body>
         <div>
-            <div class="sidebar">&nbsp;</div>
+            <div class="sidebar">
+                <a href="index.html"><img src="icon.png" alt="ChristianRockOrNot Logo" title="ChristianRockOrNot Logo" /></a>
+                <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-4433632599590176" data-ad-slot="1780870201"></ins>
+            </div>
             <div class="content">
-                <h1>About Christian Rock or Not</h1>
-
+                <a href="index.html"><h1>About Christian Rock or Not</h1></a>
                 <p>
-                    A web application that presents rock lyrics, with christian terms changed to secular ones, and
-                    challenges the viewer to decide if they are from a christian rock track or not. A running count
-                    of correct guesses is maintained for each track, and is presented after the viewer has made their
-                    choice.
+                    The application is designed to illustrate the fact that, were it not for the presence of certain obviously religious words or phrases such as <i>Jesus</i> or <i>God</i> in Christian Rock music, the lyrics could easily be mistaken for secular Rock. The Devil's music and Christian music are not that different after all! The site presents a single verse of lyrics, from a randomly selected track of either genre, <b>BUT</b> with christian terms changed to secular ones, generally <i>Baby</i> or equivalent. The challenge for the user is to to decide if the song is a Christian Rock track or Not. A running count of correct guesses is maintained for each track, and is presented after the user has made their choice.
                 </p>
                 <p>
-                    Uses the <a href="https://developer.musixmatch.com/" class="link">MusixMatch API</a> to download lyrics and
-                    <a href="https://azure.microsoft.com/en-gb/services/sql-database/" class="link">Azure SQL Database</a>" to
-                    store the results of guesses by users.
+                    All of the components are hosted using <a href="https://azure.microsoft.com/en-gb/" class="link">Microsoft Azure</a>. The web application uses an <a href="http://releases.ubuntu.com/18.04/" class="link">Ubuntu 18.04</a> <a href="https://azure.microsoft.com/en-gb/services/virtual-machines/" class="link">Azure Virtual Machine</a> running <a href="http://tomcat.apache.org/" class="link">Apache Tomcat 8.x</a> to serve the pages and the JAX-RS REST API. The API accesses an <a href="https://azure.microsoft.com/en-gb/services/sql-database/" class="link">Azure SQL Database</a> over JDBC to store the results of guesses by users. The <a href="https://developer.musixmatch.com/" class="link">MusixMatch API</a> is used to search for and download the lyrics. (Currently I am using the free tier, so there are limits to the number of users the site can handle per day.) An <a href="https://azure.microsoft.com/en-gb/services/application-gateway/" class="link">Azure Application Gateway</a> serves as the public endpoint. (And will soon also be used for SSL termination using a <a href="https://letsencrypt.org/" class="link">LetsEncrypt</a> certificate.) Finally, the <code>christianrockornot.info</code> domain name is hosted and served by <a href="https://azure.microsoft.com/en-gb/services/dns/" class="link">Azure DNS</a>.
                 </p>
                 <p>
-                    The web application is hosted on <a href="https://azure.microsoft.com/en-gb/" class="link">Microsoft Azure</a>
-                    and uses a Linix Virtual Machine running Tomcat to serve the pages and REST API, and an Azure
-                    Application Gateway as the public endpoint and for SSL termination.
+                    The application was designed and built by <a href="https://twitter.com/grkvlt/" class="link">Andrew Kennedy</a>. I am a Java developer, active in the open source community, including projects like <a href="https://github.com/apache/brooklyn-server/" class="link">Apache Brooklyn</a> as founding PMC memeber, and <a href="https://github.com/hyperledger/sawtooth-core/" class="link">Hyperledger Sawtooth</a> as a maintainer of the Seth project and a <a href="https://www.hyperledger.org/community/technical-ambassador" class="link">technical ambassador</a>. I work in Edinburgh for a cloud services and software company, as a Distributed Systems Hacker and have given <a href="https://speakerdeck.com/grkvlt/" class="link">talks at various conferences</a> around the world about both my open source work and the products we produce at work. 
                 </p>
                 <p>
-                    All code is available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a> and
-                    was written by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> in Java.
+                    All code is available on <a href="https://github.com/grkvlt/ChristianRockOrNot/" class="link">GitHub</a> and comments, contributions and bug reports are welcome. You can contact <a href="https://about.me/grkvlt/" class="link">me</a> by email at <a href="mailto:andrew.international+christianrockornot@gmail.com?subject=ChristianRockOrNot" class="link"><code>andrew.international+christianrockornot@gmail.com</code></a>.
                 </p>
-                <p>
-                    <a href="index.html" class="link">Back</a>.
-                </p>
+                <div id="back" class="back">
+                    <a href="index.html"><button>Back</button></a>
+                </div>
             </div>
             <div class="about">
                 Copyright 2019 by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> /
                 Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" class="link">Apache Software License, Version 2.0</a>
-                <br/>
-                Code available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a>
             </div>
         </div>
     </body>

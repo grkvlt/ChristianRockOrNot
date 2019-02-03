@@ -25,6 +25,7 @@
         <link rel="icon" href="icon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <link rel="stylesheet" type="text/css" href="christianrock.css"/>
         <script lang="text/javascript">
             function restApi(path) {
@@ -54,7 +55,6 @@
                         $('#artist').html(data.artist);
                         $('#title').html(data.title);
                     });
-                    $('.fb-send').attt('data-href', window.location.href);
                 }
             }
             function makeGuess(guess) {
@@ -87,20 +87,16 @@
     <body onload="randomTrack();">
         <div>
             <div class="sidebar">
-                <!--
-                <ins class="adsbygoogle"
-                        style="display:inline-block;width:160px;height:600px"
-                        data-ad-client="ca-pub-4433632599590176"
-                        data-ad-slot="1780870201"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-                -->
+                <img src="icon.png" alt="ChristianRockOrNot Logo" title="ChristianRockOrNot Logo" />
+                <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-4433632599590176" data-ad-slot="1780870201"></ins>
             </div>
             <div class="content">
                 <h1>Is It Christian Rock or Not?</h1>
+                <p>
+                    The lyrics that will appear below are either from a Christian Rock song with certain religious words replaced with <i>Baby</i> or other secular terms, <b>OR</b> simply a normal Rock song. Can you guess whether it is <b><i>Christian Rock Or Not</i></b>? After you make a choice by clicking one of the buttons below the lyrics, you will see the title and artist of the track and will find out whether your guess was correct - and also how many other people managed to guess correctly!
+                </p>
                 <pre id="lyrics" class="lyrics">
-                    ...
+                    &nbsp;
                 </pre>
                 <div id="choice" class="choice">
                     <button onclick="makeGuess(1);">Christian Rock</button> or
@@ -115,25 +111,16 @@
                     </ul>
                     <button onclick="reloadPage();">Reload Page</button>
                 </div>
-            </div>
-            <div class="footer">
-                <div id="fb-root"></div>
-                <script>(function(d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (d.getElementById(id)) return;
-                    js = d.createElement(s); js.id = id;
-                    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));</script>
-                <div class="fb-send fab fa-facebook" data-href="http://www.christianrockornot.info/" data-layout="button_count"></div>
-                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button fab fa-twitter" data-text="What do you think? Is it #ChristianRockOrNot?"
-                        data-via="grkvlt" data-related="" data-lang="en" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                <a href="#" class="fa fa-share-alt"></a>
+                <div style="margin-top: 15px;">
+                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="What do you think? Is it #ChristianRockOrNot?" data-via="grkvlt" data-size="large" data-lang="en" data-show-count="false"></a>
+                </div>
+                <p>
+                   <a href="about.html" class="link">More informnation</a> about this site is available, including how it was built and deployed, and contact details for the author.
+                </p>
             </div>
             <div class="about">
                 Copyright 2019 by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> /
                 Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" class="link">Apache Software License, Version 2.0</a>
-                <br/>
                 Code available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a> /
                 <a href="about.html" class="link">About this site</a>
             </div>
