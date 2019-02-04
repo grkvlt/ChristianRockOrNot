@@ -19,11 +19,16 @@ body {
 }
 * {
     font-size: 16px;
-    line-height: 125%;
+}
+.top img, .top h1 {
+    float: left;
 }
 h1 {
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-bottom: 20px;
 }
 .lyrics {
     padding: 10px;
@@ -35,13 +40,32 @@ h1 {
     width: 800px;
 }
 p {
-    padding: 10px;
+    padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 800px;
+    line-height: 125%;
 }
 code {
     font-size: 14px;
     font-family: Consolas, Inconsolata, Monaco, 'Courier New', Courier, monospace;
+}
+.disclaimer {
+    background: lightcoral;
+    border: 4px dashed darkred;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    width: 750px;
+}
+.disclaimer p {
+    /* font-size: 25px; */
+    width: 700px;
+}
+.disclaimer h2 {
+   font-size: 35px;
+   text-align: center;
+   padding: 0;
+   width: 700px;
 }
 a:hover, a:visited, a:link, a:active, a {
     color: #000;
@@ -74,16 +98,14 @@ button:hover {
 .guessed {
     display: none;
 }
-.sidebar {
-    width: 160px;
-    float: left;
-}
 .content {
-    float: left;
-}
-.footer, .about {
     clear: both;
-    text-align: left;
+    margin-left: 25px;
+}
+.footer {
+    padding: 25px;
+    height: 50px;
+    width: 100%;
 }
 .fa, .fab {
     padding: 10px;

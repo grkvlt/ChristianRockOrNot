@@ -18,6 +18,7 @@ package grkvlt.client;
 import com.google.common.base.Strings;
 import grkvlt.Resources;
 import grkvlt.data.Guesses;
+import grkvlt.data.Statistics;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -65,9 +66,9 @@ public class AzureSQL {
             select.setInt(1, trackId);
             ResultSet results = select.executeQuery();
             if (results.next()) {
-                Integer total = results.getInt("Total");
-                Integer correct = results.getInt("Correct");
-                Boolean christianRock = (results.getInt("Genre") == Resources.CHRISTIAN_ROCK);
+                int total = results.getInt("Total");
+                int correct = results.getInt("Correct");
+                boolean christianRock = (results.getInt("Genre") == Resources.CHRISTIAN_ROCK);
                 results.close();
                 select.close();
 
@@ -117,6 +118,26 @@ public class AzureSQL {
                     update.executeUpdate();
                     update.close();
                 }
+            } else {
+                throw new RuntimeException("Database error");
+            }
+        } catch (SQLException sqle) {
+            throw new RuntimeException(sqle);
+        }
+    }
+
+    public Statistics getStatistics() {
+        try {
+            PreparedStatement select = connection.prepareStatement("SELECT SUM(Total) AS Guesses, COUNT(Total) AS Tracks FROM ChristianRockOrNot");
+            ResultSet results = select.executeQuery();
+            if (results.next()) {
+                int guesses = results.getInt("Guesses");
+                int tracks = results.getInt("Tracks");
+
+                Statistics stats = new Statistics();
+                stats.setGuesses(guesses);
+                stats.setTracks(tracks);
+                return stats;
             } else {
                 throw new RuntimeException("Database error");
             }

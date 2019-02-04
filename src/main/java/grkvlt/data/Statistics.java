@@ -21,57 +21,31 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonSetter;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-public class Guesses {
+public class Statistics {
 
     @JsonProperty
-    private int trackId;
+    private int guesses;
 
     @JsonProperty
-    private int total;
-
-    @JsonProperty
-    private int correct;
-
-    @JsonProperty
-    private boolean christianRock;
+    private int tracks;
 
     @JsonGetter
-    public int getTrackId() {
-        return trackId;
+    public int getGuesses() {
+        return guesses;
     }
 
     @JsonGetter
-    public int getTotal() {
-        return total;
-    }
-
-    @JsonGetter
-    public int getCorrect() {
-        return correct;
-    }
-
-    @JsonGetter
-    public boolean isChristianRock() {
-        return christianRock;
+    public int getTracks() {
+        return tracks;
     }
 
     @JsonSetter
-    public void setTrackId(int trackId) {
-        this.trackId = trackId;
+    public void setGuesses(int guesses) {
+        this.guesses = guesses;
     }
 
     @JsonSetter
-    public void setTotal(int total) {
-        this.total = total;
-    }
-
-    @JsonSetter
-    public void setCorrect(int correct) {
-        this.correct = correct;
-    }
-
-    @JsonSetter
-    public void setChristianRock(boolean christianRock) {
-        this.christianRock = christianRock;
+    public void setTracks(int tracks) {
+        this.tracks = tracks;
     }
 }

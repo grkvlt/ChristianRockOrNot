@@ -19,6 +19,7 @@ import grkvlt.client.AzureSQL;
 import grkvlt.client.MusixMatch;
 import grkvlt.data.Guesses;
 import grkvlt.data.RockLyrics;
+import grkvlt.data.Statistics;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -50,7 +51,7 @@ public class Resources {
      */
     @Path("random")
     @GET
-    public Integer getRandom() {
+    public Integer random() {
         return musixMatch.getRandom();
     }
 
@@ -82,5 +83,16 @@ public class Resources {
         int genre = musixMatch.isChristianRock(trackId) ? CHRISTIAN_ROCK : NOT;
         azureSQL.makeGuess(trackId, christianRock, genre);
         return azureSQL.getGuesses(trackId);
+    }
+
+    /**
+     * Returns the number of guesses made, and the number of tracks guessed at.
+     *
+     * @return a {@link Statistics stats} object with the numbers
+     */
+    @Path("stats")
+    @GET
+    public Statistics stats() {
+        return azureSQL.getStatistics();
     }
 }

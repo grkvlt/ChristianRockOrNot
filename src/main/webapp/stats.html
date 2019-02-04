@@ -15,33 +15,58 @@
  -->
 <html>
     <head>
-        <title>ChristianRockOrNotError</title>
+        <title>ChristianRockOrNotStats</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta property="og:url" content="http://christianrockornot.info/" />
+        <meta property="og:url" content="http://christianrockornot.info/stats.html" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="ChristianRockOrNotError" />
-        <meta property="og:description" content="Christian Rock Or Not Error!" />
+        <meta property="og:title" content="ChristianRockOrNotStats" />
+        <meta property="og:description" content="Christian Rock Or Not Stats" />
         <meta property="og:image" content="http://www.christianrockornot.info/icon.png" />
         <meta property="version" content="0.1.0-SNAPSHOT" />
         <link rel="icon" href="icon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="christianrock.css"/>
+        <script lang="text/javascript">
+            function restApi(path) {
+                var url = window.location.href.replace(window.location.search, '');
+                if (!url.endsWith('/')) {
+                    url = url.replace('?', '');
+                    url = url.replace('/stats.html', '');
+                    url = url + '/';
+                }
+                return url + 'api/' + path;
+            }
+            function stats() {
+                url = restApi('stats')
+                $.get(url, function(data, status) {
+                    $('#guesses').html(data.guesses);
+                    $('#tracks').html(data.tracks);
+                });
+            }
+        </script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({
+                  google_ad_client: "ca-pub-4433632599590176",
+                  enable_page_level_ads: true
+             });
+        </script>
     </head>
-    <body>
+    <body onload="stats();">
         <div>
             <div class="top">
                 <a href="index.html">
                     <img src="icon.png" alt="ChristianRockOrNot Logo" title="ChristianRockOrNot Logo" />
-                    <h1>Christian Rock or Not Error!</h1>
+                    <h1>Christian Rock or Not Stats</h1>
                 </a>
             </div>
             <div class="content">
-                <p class="error">
-                    Something bad happened <a href="index.html" class="fa fa-frown"></a>
+                <p>
+                    A total of <span id="guesses">0</span> guesses have been made, against <span id="tracks">0</span> tracks.
                 </p>
                 <div id="back" class="back">
-                    <a href="index.html"><button>Try Again</button></a>
+                    <a href="index.html"><button>Back</button></a>
                 </div>
             </div>
             <div class="footer">

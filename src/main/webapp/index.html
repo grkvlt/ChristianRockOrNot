@@ -17,11 +17,12 @@
     <head>
         <title>ChristianRockOrNot</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta property="og:url"           content="http://www.christianrockornot.info/" />
-        <meta property="og:type"          content="website" />
-        <meta property="og:title"         content="ChristianRockOrNot" />
-        <meta property="og:description"   content="Is It Christian Rock Or Not?" />
-        <meta property="og:image"         content="http://www.christianrockornot.info/icon.png" />
+        <meta property="og:url" content="http://www.christianrockornot.info/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="ChristianRockOrNot" />
+        <meta property="og:description" content="Is It Christian Rock Or Not?" />
+        <meta property="og:image" content="http://www.christianrockornot.info/icon.png" />
+        <meta property="version" content="0.1.0-SNAPSHOT" />
         <link rel="icon" href="icon.png">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -86,12 +87,13 @@
     </head>
     <body onload="randomTrack();">
         <div>
-            <div class="sidebar">
-                <img src="icon.png" alt="ChristianRockOrNot Logo" title="ChristianRockOrNot Logo" />
-                <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-4433632599590176" data-ad-slot="1780870201"></ins>
+            <div class="top">
+                <a href="index.html">
+                    <img src="icon.png" alt="ChristianRockOrNot Logo" title="ChristianRockOrNot Logo" />
+                    <h1>Is It Christian Rock or Not?</h1>
+                </a>
             </div>
             <div class="content">
-                <h1>Is It Christian Rock or Not?</h1>
                 <p>
                     The lyrics that will appear below are either from a Christian Rock song with certain religious words replaced with <i>Baby</i> or other secular terms, <b>OR</b> simply a normal Rock song. Can you guess whether it is <b><i>Christian Rock Or Not</i></b>? After you make a choice by clicking one of the buttons below the lyrics, you will see the title and artist of the track and will find out whether your guess was correct - and also how many other people managed to guess correctly!
                 </p>
@@ -109,16 +111,18 @@
                         <li><b>Artist:</b>	<i id="artist"></i></li>
                         <li><b id="correct"></b><b>%</b> Guessed Correctly</li>
                     </ul>
-                    <button onclick="reloadPage();">Reload Page</button>
                 </div>
                 <div style="margin-top: 15px;">
                     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="What do you think? Is it #ChristianRockOrNot?" data-via="grkvlt" data-size="large" data-lang="en" data-show-count="false"></a>
                 </div>
                 <p>
-                   <a href="about.html" class="link">More informnation</a> about this site is available, including how it was built and deployed, and contact details for the author.
+                   <a href="about.html" class="link">More information</a> about this site is available, including how it was built and deployed, and contact details for the author.
                 </p>
+                <div id="back" class="back">
+                    <button onclick="reloadPage();">Reload Page</button>
+                </div>
             </div>
-            <div class="about">
+            <div class="footer">
                 Copyright 2019 by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> /
                 Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" class="link">Apache Software License, Version 2.0</a>
                 Code available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a> /
