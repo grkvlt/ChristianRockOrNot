@@ -17,7 +17,10 @@
     <head>
         <title>ChristianRockOrNot</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta property="og:url" content="http://www.christianrockornot.info/" />
+        <meta name="twitter:image:src" content="http://www.christianrockornot.info/icon.png" />
+        <meta name="twitter:site" content="@CRockOrNot" />
+        <meta name="twitter:creator" content="@CRockOrNot" />
+        <meta property="og:url" content="http://christianrockornot.info/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="ChristianRockOrNot" />
         <meta property="og:description" content="Is It Christian Rock Or Not?" />
@@ -55,6 +58,8 @@
                         $('#lyrics').html(data.lyrics);
                         $('#artist').html(data.artist);
                         $('#title').html(data.title);
+                        $('#choice').show();
+                        $('#guessed').hide();
                     });
                 }
             }
@@ -67,7 +72,8 @@
                     $.post(url, function(data, status) {
                         $('#genre').html(data.christianRock ? 'Christian Rock' : 'Not');
                         $('#result').html((data.christianRock ? 1 : 0) == guess ? 'Correct' : 'Wrong');
-                        $('#correct').html((data.correct / data.total) * 100);
+                        var percent = ((data.correct / data.total) * 100).toFixed(1);
+                        $('#correct').html((Math.floor(percent) == percent) ? Math.floor(percent) : percent);
                         $('#choice').hide();
                         $('#guessed').show();
                     });
@@ -101,7 +107,7 @@
                     &nbsp;
                 </pre>
                 <div id="choice" class="choice">
-                    <button onclick="makeGuess(1);">Christian Rock</button> or
+                    Is it <button onclick="makeGuess(1);">Christian Rock</button> or
                     <button onclick="makeGuess(0);">Not</button> ?
                 </div>
                 <div id="guessed" class="guessed">
@@ -112,21 +118,20 @@
                         <li><b id="correct"></b><b>%</b> Guessed Correctly</li>
                     </ul>
                 </div>
-                <div style="margin-top: 15px;">
-                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="What do you think? Is it #ChristianRockOrNot?" data-via="grkvlt" data-size="large" data-lang="en" data-show-count="false"></a>
+                <div style="margin-top: 25px">
+                    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="What do you think? Is it #ChristianRockOrNot?" data-via="CRockOrNot" data-size="large" data-lang="en" data-show-count="false"></a>
+                    <span>&nbsp;</span>
+                    <a href="https://twitter.com/CRockOrNot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="true">Follow @CRockOrNot</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <span>&nbsp;</span>
+                    <button onclick="reloadPage();" style="vertical-align: top;">Reload Page</button>
                 </div>
                 <p>
-                   <a href="about.html" class="link">More information</a> about this site is available, including how it was built and deployed, and contact details for the author.
+                   Use the buttons above to share this site on <a href="https://twitter.com/CRockOrNot" class="link">Twitter</a>. Find out <a href="about.html" class="link">more information</a> about this site, including how it was built and deployed, and contact details for the author. Code is available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a>.
                 </p>
-                <div id="back" class="back">
-                    <button onclick="reloadPage();">Reload Page</button>
-                </div>
             </div>
             <div class="footer">
                 Copyright 2019 by <a href="https://twitter.com/grkvlt/" class="link">Andrew Donald Kennedy</a> /
                 Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" class="link">Apache Software License, Version 2.0</a>
-                Code available on <a href="https://github.com/grkvlt/ChristianRockOrNot" class="link">GitHub</a> /
-                <a href="about.html" class="link">About this site</a>
             </div>
         </div>
     </body>
